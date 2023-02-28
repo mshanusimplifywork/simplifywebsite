@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NDCC on Simplify VMS</title>
+    <link>https://mshanusimplifywork.github.io/simplifywebsite-static/categories/ndcc/</link>
+    <description>Recent content in NDCC on Simplify VMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jan 2021 10:07:21 +0600</lastBuildDate><atom:link href="https://mshanusimplifywork.github.io/simplifywebsite-static/categories/ndcc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NDCC Sample</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite-static/resources/sample-ndcc/</link>
+      <pubDate>Mon, 18 Jan 2021 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite-static/resources/sample-ndcc/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+  </channel>
+</rss>
