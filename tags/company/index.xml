@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Company on Simplify VMS</title>
+    <link>https://mshanusimplifywork.github.io/simplifywebsite/tags/company/</link>
+    <description>Recent content in Company on Simplify VMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mshanusimplifywork.github.io/simplifywebsite/tags/company/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beneifts to the workplace from neurodiversity</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/benefits-of-neurodiversity/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/benefits-of-neurodiversity/</guid>
+      <description>Research says there are large benefits</description>
+    </item>
+    
+    <item>
+      <title>My Third Blog post</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/third-post/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/third-post/</guid>
+      <description>I am just showing Ritesh what to do.</description>
+    </item>
+    
+    <item>
+      <title>My Second Blog post</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/second-post/</link>
+      <pubDate>Sun, 19 Jul 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/second-post/</guid>
+      <description>Hello world</description>
+    </item>
+    
+    <item>
+      <title>Neurodiversity And Inclusion</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/neurodiversity-and-inclusion/</link>
+      <pubDate>Sat, 18 Jul 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/neurodiversity-and-inclusion/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+  </channel>
+</rss>
