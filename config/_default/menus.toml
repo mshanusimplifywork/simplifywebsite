@@ -1,0 +1,409 @@
+############# Main menu ##############
+
+# Main menu
+[[main]]
+    name       = "Why Simplify?"
+    identifier = "menu.home"
+    weight     = 1
+
+[[main]]
+    name       = "The Future of Work"
+    url        = "/#the-future-of-work"
+    weight     = 2
+    parent     = "menu.home"
+
+[[main]]
+    name       = "Total Talent Management"
+    url        = "/#total-talent-management"
+    weight     = 3
+    parent     = "menu.home"
+
+[[main]]
+    name       = "How We're Different"
+    url        = "/#how-we-are-different"
+    weight     = 4
+    parent     = "menu.home"
+
+############
+
+[[main]]
+  name       = "Product Ecosystem"
+  identifier = "menu.portfolio"
+  url        = "images/product-ecosystem.svg"
+  weight     = 2
+
+    [[main]]
+    #name       = "Extended Workforce Management Products"
+    name       = "Workforce Management Products"
+    identifier = "section.portfolio"
+    url        = ""
+    weight     = 1
+    parent     = "menu.portfolio"
+    post       = 1
+
+        [[main]]
+        name       = "Vendor Management System (VMS)"
+        url        = "/vendor-management-system"
+        weight     = 1
+        parent     = "section.portfolio"
+
+        [[main]]
+        name       = "Direct Sourcing"
+        url        = "/direct-sourcing"
+        weight     = 2
+        parent     = "section.portfolio"
+
+        [[main]]
+        name       = "Statement of Work"
+        url        = "/statement-of-work"
+        weight     = 3
+        parent     = "section.portfolio"
+
+        [[main]]
+        name       = "Credentialing"
+        url        = "/credentialing"
+        weight     = 4
+        parent     = "section.portfolio"
+
+        [[main]]
+        name       = "Artificial Intelligence Suite"
+        url        = "/artificial-intelligence-suite"
+        weight     = 5
+        parent     = "section.portfolio"
+
+        [[main]]
+        name       = "Neurodiverse Talent Solutions"
+        url        = "/neurodiverse-talent-sourcing"
+        weight     = 6
+        parent     = "section.portfolio"
+
+    [[main]]
+    name       = "Integrations"
+    identifier = "section.about"
+    weight     = 2
+    parent     = "menu.portfolio"
+    post       = 2
+
+        [[main]]
+        name       = "Third Party Connections"
+        url        = "/third-party-connections"
+        weight     = 1
+        parent     = "section.about"
+
+##################
+
+#[[main]]
+    #name       = "Solutions"
+    #identifier = "menu.features"
+    #url        = "/img/template-homepage.png"
+    #weight     = 3
+
+#[[main]]
+  #name       = "Innovative / Specialized Solutions"
+  #identifier = "section.shortcodes"
+  #url        = ""
+  #weight     = 1
+  #parent     = "menu.features"
+  #post       = 1
+
+#[[main]]
+  #name       = "Healthcare"
+  #url        = "/healthcare"
+  #weight     = 1
+  #parent     = "section.shortcodes"
+
+#[[main]]
+#name       = "Light Industrial"
+#url        = "/light-industrial"
+#weight     = 2
+#parent     = "section.shortcodes"
+
+#[[main]]
+    #name       = "Roles / Personas"
+    #identifier = "section.headervariations"
+    #url        = ""
+    #weight     = 2
+    #parent     = "menu.features"
+    #post       = 2
+
+#[[main]]
+    #name       = "Persona 1"
+    #url        = "/user-persona-1"
+    #weight     = 1
+    #parent     = "section.headervariations"
+
+#[[main]]
+    #name       = "Persona 2"
+    #url        = "/user-persona-2"
+    #weight     = 2
+    #parent     = "section.headervariations"
+
+#[[main]]
+    #name       = "Persona 3"
+    #url        = "/user-persona-3"
+    #weight     = 3
+    #parent     = "section.headervariations"
+
+[[main]]
+    name       = "Resources"
+    identifier = "menu.resources"
+    url        = ""
+    weight     = 4
+
+[[main]]
+name       = "Blogs"
+identifier = "section.blogs"
+url        = ""
+weight     = 1
+parent     = "menu.resources"
+post       = 1
+
+[[main]]
+name       = "Contigent Workforce"
+identifier = "menu.cw"
+url        = "/blogs/contingent/contigent-workforce/"
+weight     = 1
+parent     = "section.blogs"
+
+[[main]]
+name       = "Neurodiversity and Inclusion"
+identifier = "menu.ndi"
+url        = "/blogs/neuro-diversity/neurodiversity-and-inclusion/"
+weight     = 2
+parent     = "section.blogs"
+
+[[main]]
+name       = "View All Blogs"
+identifier = "menu.vb"
+url        = "/categories/blog/"
+weight     = 3
+parent     = "section.blogs"
+
+[[main]]
+name       = "Community & Events"
+identifier = "section.community"
+url        = ""
+weight     = 2
+parent     = "menu.resources"
+post       = 2
+
+[[main]]
+name       = "Where are we Next?"
+identifier = "menu.next"
+url        = "/categories/where-are-we-next/"
+weight     = 1
+parent     = "section.community"
+
+[[main]]
+name       = "Webinar"
+identifier = "menu.webinar"
+url        = "/categories/webinar"
+weight     = 2
+parent     = "section.community"
+
+[[main]]
+name       = "NDCC"
+identifier = "menu.ndcc"
+url        = "/categories/ndcc"
+weight     = 3
+parent     = "section.community"
+
+[[main]]
+name       = "Client Stories"
+identifier = "section.events"
+url        = ""
+weight     = 3
+parent     = "menu.resources"
+post       = 3
+
+[[main]]
+name       = "Customer Testimonials"
+identifier = "menu.test"
+url        = "/categories/customer-testimonials"
+weight     = 1
+parent     = "section.events"
+
+[[main]]
+name       = "Case Studies"
+identifier = "menu.case"
+url        = "/categories/case-studies"
+weight     = 2
+parent     = "section.events"
+
+[[main]]
+name       = "Client Partners"
+identifier = "menu.clientpartners"
+url        = "/categories/client-partners"
+weight     = 3
+parent     = "section.events"
+
+[[main]]
+name       = "Company"
+identifier = "menu.company"
+url        = "menu.clientpartners"
+weight     = 5
+
+
+
+
+######## Company innner
+[[main]]
+name       = "About"
+identifier = "section.about2"
+url        = ""
+weight     = 1
+parent     = "menu.company"
+post       = 1
+
+    [[main]]
+    name       = "Who We are and What We Do"
+    identifier = "menu.who"
+    url        = "/about#about"
+    weight     = 1
+    parent     = "section.about2"
+
+    [[main]]
+    name       = "Our Values"
+    identifier = "menu.values"
+    url        = "/about#core-values"
+    weight     = 2
+    parent     = "section.about2"
+
+    [[main]]
+    name       = "Leadership Team"
+    identifier = "menu.team"
+    url        = "/about#leadership"
+    weight     = 3
+    parent     = "section.about2"
+
+    [[main]]
+    name       = "Certified Diverse Supplier"
+    identifier = "menu.diverse"
+    url        = "/about#certified-diverse-supplier"
+    weight     = 4
+    parent     = "section.about2"
+
+
+[[main]]
+name       = "Life @simplify"
+identifier = "section.life"
+url        = ""
+weight     = 2
+parent     = "menu.company"
+post       = 2
+
+
+[[main]]
+name       = "Careers"
+identifier = "menu.careers"
+url        = "/careers"
+weight     = 1
+parent     = "section.life"
+
+[[main]]
+name       = "Latest"
+identifier = "section.latest2"
+url        = ""
+weight     = 1
+parent     = "menu.company"
+post       = 1
+
+[[main]]
+name       = "News"
+identifier = "menu.news"
+url        = "/categories/news"
+weight     = 1
+parent     = "section.latest2"
+
+[[main]]
+name       = "Future of the Industry Report"
+identifier = "menu.report"
+url        = "/categories/future-of-the-industry-report"
+weight     = 2
+parent     = "section.latest2"
+
+[[main]]
+name       = "Product Releases"
+identifier = "menu.releases"
+url        = "/categories/product-releases"
+weight     = 3
+parent     = "section.latest2"
+
+
+##########
+
+
+######################### Products #########################
+[[products]]
+name = "Partner"
+url = "partner/"
+weight = 1
+
+[[products]]
+name = "Information"
+url = "/"
+weight = 1
+
+[[products]]
+name = "About"
+url = "/"
+weight = 1
+
+[[products]]
+name = "Take the Tour"
+url = "/"
+weight = 1
+
+
+######################### About #########################
+[[about]]
+name = "Webinars/Events"
+url = "/"
+weight = 1
+
+[[about]]
+name = "Leadership"
+url = "/"
+weight = 1
+
+[[about]]
+name = "Subscribe"
+url = "/"
+weight = 1
+
+[[about]]
+name = "Privacy"
+url = "/"
+weight = 1
+
+[[about]]
+name = "Cookie Preferences"
+url = "/"
+weight = 1
+
+[[about]]
+name = "Legal"
+url = "/"
+weight = 1
+
+
+######################### Locations #########################
+[[locations]]
+name = "USA - Headquarters"
+url = "/"
+weight = 1
+
+[[locations]]
+name = "Canada"
+url = "/"
+weight = 1
+
+[[locations]]
+name = "Europe"
+url = "/"
+weight = 1
+
+[[locations]]
+name = "India"
+url = "/"
+weight = 1

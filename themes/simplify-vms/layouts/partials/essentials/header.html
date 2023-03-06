@@ -1,0 +1,165 @@
+<!-- navigation -->
+<header class="navigation sticky-top bg-white">
+  <div class="container-md">
+    <!-- navbar -->
+    <nav class="navbar navbar-expand-xl navbar-light">
+      <!-- navbar brand/logo -->
+      <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
+        {{ partial "logo.html" }}
+      </a>
+
+      <div class="d-flex align-items-center">
+        <!-- navbar toggler -->
+        <button class="navbar-toggler position-sticky" type="button" data-bs-toggle="collapse"
+          data-bs-target="#navigation" title="Expand &amp; shrink sidebar">
+          <label class="position-relative">
+            <input class="d-none" type="checkbox">
+            <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+              <path class="line--1" d="M0 40h62c13 0 6 28-4 18L35 35"></path>
+              <path class="line--2" d="M0 50h70"></path>
+              <path class="line--3" d="M0 60h62c13 0 6-28-4-18L35 65"></path>
+            </svg>
+          </label>
+        </button>
+      </div>
+
+      <div class="navbar-collapse collapse" id="navigation">
+        <ul class="navbar-nav mx-auto flex-lg-wrap">
+          {{ $current := . }}
+
+          {{ range .Site.Menus.main.ByWeight }}
+          {{ $topLevel := replace .URL "/" "" }}
+          {{ $active := "" }}
+
+          {{ if eq $current.RelPermalink .URL }}
+            {{ $active = "active" }}
+          {{ end }}
+
+          {{ if eq $current.Type $topLevel }}
+            {{ $active = "active" }}
+          {{ end }}
+
+          {{ if and (or (eq $current.RelPermalink .URL) (eq "term" $current.Kind)) (in (slice "page" "term") $current.Kind) }}
+            {{ range (split .URL "/") }}
+              {{ if eq "blog" . }}
+                {{ $active = "active" }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+
+          {{ if .HasChildren }}
+            <!-- Check if the first child marks a menu section identifier -->
+            {{ $hasSections := (hasPrefix (index .Children 0).Identifier "section.") }}
+            <li class="nav-item dropdown{{ if $hasSections }} use-yamm yamm-fw{{end}} {{ $active }}">
+                <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
+                {{ if $hasSections }}
+                
+                <ul class="dropdown-menu {{ .Identifier }}">
+                    <li>
+                    <div class="yamm-content">
+                      <div class="container-md">
+                    <div class="row">
+                        {{ if ne .URL "" }}
+                        <div class="col-sm-4 megamenu-img">
+                            {{ partial "image.html" (dict "Src" .URL "Size" "480x520" "Class" "mx-auto d-block" ) }}  
+                        </div>
+                        {{ end }}
+                        <div class="col-sm-4">
+                        {{ range .Children.ByWeight }}
+                            {{ $column := printf "%s" .Post }}
+                            {{ if eq $column "1" }}
+                            <h5>{{ .Name }}</h5>
+                            {{ if .HasChildren }}
+                            <ul>
+                            {{ range .Children.ByWeight }}
+                            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                            {{- end }}
+                            </ul>
+                            {{ end }}
+                            {{ end }}
+                        {{ end }}
+                        </div>
+                        <div class="col-sm-4">
+                        {{ range .Children.ByWeight }}
+                            {{ $column := printf "%s" .Post }}
+                            {{ if eq $column "2" }}
+                            <h5>{{ .Name }}</code></h5>
+                            {{ if .HasChildren }}
+                            <ul>
+                            {{ range .Children.ByWeight }}
+                            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                            {{ end }}
+                            </ul>
+                            {{ end }}
+                            {{ end }}
+                        {{ end }}
+                        </div>
+                        {{ if eq .URL "" }}
+                        <div class="col-sm-3">
+                        {{ range .Children }}
+                            {{ $column := printf "%s" .Post }}
+                            {{ if eq $column "3" }}
+                            <h5>{{ .Name }}</code></h5>
+                            {{ if .HasChildren }}
+                            <ul>
+                            {{ range .Children.ByWeight }}
+                            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                            {{ end }}
+                            </ul>
+                            {{ end }}
+                            {{ end }}
+                        {{ end }}
+                        </div>
+                        <div class="col-sm-3">
+                        {{ range .Children }}
+                            {{ $column := printf "%s" .Post }}
+                            {{ if eq $column "4" }}
+                            <h5>{{ .Name }}</code></h5>
+                            {{ if .HasChildren }}
+                            <ul>
+                            {{ range .Children.ByWeight }}
+                            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                            {{ end }}
+                            </ul>
+                            {{ end }}
+                            {{ end }}
+                        {{ end }}
+                        </div>
+                        {{ end }}
+                    </div>
+                    </div>
+                    </div>
+                    </li>
+                </ul>
+                {{ else }}
+                <ul class="dropdown-menu">
+                    {{ range .Children.ByWeight }}
+                    <li ><a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+            </li>
+          {{ else }}
+          <li class="dropdown  nav-item {{ $active }}">
+            <a class="nav-link "href="{{ .URL }}">{{ .Name }}</a>
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+
+        {{ if site.Params.navigation_button.enable }}
+        <!-- navigation btn -->
+        <a href="{{ site.Params.navigation_button.link | relLangURL }}"
+          class="btn btn-sm btn-secondary ms-xl-4 mt-3 mt-xl-0">{{ site.Params.navigation_button.label }}
+          <i class="fa-solid fa-chevron-right"></i>
+        </a>
+        {{ end }}
+
+    </div>
+    <!--/.nav-collapse -->
+
+    
+    </nav>
+  </div>
+</header>
+<!-- /navigation -->

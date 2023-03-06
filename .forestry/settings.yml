@@ -1,0 +1,113 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: ''
+webhook_url: 
+sections:
+- type: heading
+  label: Homepage
+- type: document
+  path: content/_index.md
+  label: Homepage
+- type: heading
+  label: Resources
+- type: document
+  path: content/resources/_index.md
+  label: Resources Page
+- type: directory
+  path: content/resources
+  label: All Resources
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - new-post
+- type: heading
+  label: Author
+- type: document
+  path: content/author/_index.md
+  label: Author Page
+- type: directory
+  path: content/author
+  label: Author
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - new-author
+- type: heading
+  label: Career
+- type: document
+  path: content/career/_index.md
+  label: Career Page
+- type: directory
+  path: content/career
+  label: All Career Posts
+  create: documents
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - new-career-post
+- type: heading
+  label: Others Page
+- type: document
+  path: content/about.md
+  label: About
+- type: document
+  path: content/contact.md
+  label: Contact
+- type: document
+  path: content/demo.md
+  label: Demo
+- type: document
+  path: content/innovative-solutions.md
+  label: Innovative Solutions
+- type: document
+  path: content/life-at-simplify.md
+  label: Life at Simplify
+- type: document
+  path: content/product-ecosystem.md
+  label: Product Ecosystem
+- type: document
+  path: content/user-persona.md
+  label: User Persona
+- type: heading
+  label: All Pages
+- type: directory
+  path: content
+  label: All Pages
+  create: all
+  match: "**/*"
+  exclude: _index.md
+  templates:
+  - new-page
+- type: heading
+  label: Configuration
+- type: document
+  path: config/_default/config.toml
+  label: Configuration
+- type: document
+  path: config/_default/params.toml
+  label: Parameters
+- type: document
+  path: config.toml
+  label: Variables & Plugins
+- type: document
+  path: config/_default/menus.toml
+  label: Menu
+upload_dir: assets/images
+public_path: "/images"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+build:
+  preview_env:
+  - HUGO_ENV=staging
+  - HUGO_VERSION=0.106.0
+  preview_output_directory: public
+  preview_docker_image: forestryio/hugo:latest
+  mount_path: "/srv"
+  working_dir: "/srv"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+version: 0.106.0

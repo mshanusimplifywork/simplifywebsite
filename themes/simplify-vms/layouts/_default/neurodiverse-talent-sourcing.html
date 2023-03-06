@@ -1,0 +1,77 @@
+{{ define "main" }}
+
+{{with .Params.need_to_attract}}
+{{if .enable}}
+<section class="section" {{ partial `bg-image.html` (dict `Src` `images/banner-bg.png`) | safeHTMLAttr }}>
+  <div class="container-md">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-xl-6 order-2 order-xl-1">
+        <div class="section-title">
+          <h2 class="h2 title shape-start pe-lg-5">{{.title | markdownify}}</h2>
+          <p>{{.content | markdownify}}</p>
+          {{with .button}}
+          {{if .enable}}
+          <a href="#?" class="btn btn-primary">Try for free</a>
+          {{end}}
+          {{end}}
+        </div>
+      </div>
+      <div class="col-xl-6 order-1 order-xl-2">
+        {{ partial "image.html" (dict "Src" .image ) }}
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
+
+<!-- Discover Yourself Newly  -->
+{{ with .Params.discover_yourself }}
+{{if .enable}}
+<section class="section">
+  <div class="container-md">
+    <div class="row gy-5 gy-lg-0 align-items-center justify-content-around">
+      <div class="col-lg-5 order-2 order-lg-1">
+        <div class="section-title">
+          <h2 class="h3 title shape-start">{{.title | markdownify}}</h2>
+          <p>{{.content | markdownify}}</p>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-6 order-1 order-lg-2">
+        {{ partial "image.html" (dict "Src" .image ) }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+
+<!-- How it works  -->
+{{range $i, $e:= .Params.how_it_works}}
+<section class="section {{if modBool $i 2}} section-light pt-0 {{end}} {{if eq $i 0}} pb-0 {{end}}">
+  <div class="container-md">
+    <div class="row gy-4 align-items-center justify-content-around">
+      <div class="col-xl-5 {{if not (modBool $i 2)}} order-2{{end}}">
+        <div class="section-title">
+          <h3 class="text-capitalize title shape-start">{{.title | markdownify}}</h3>
+          <p>{{.content | markdownify}}</p>
+        </div>
+      </div>
+      <div class="col-xl-6 {{if not (modBool $i 2)}} order-1{{end}}">
+        <div class="slider overflow-hidden">
+          <div class="swiper-wrapper">
+            {{range .images}}
+            <div class="swiper-slide">
+              {{ partial "image.html" (dict "Src" .) }}
+            </div>
+            {{end}}
+          </div>
+          <div class="slider-pagination pagination-outline"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{end}}
+{{end}}
