@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contigent Workforce on Simplify VMS</title>
+    <link>https://mshanusimplifywork.github.io/simplifywebsite/categories/contigent-workforce/</link>
+    <description>Recent content in Contigent Workforce on Simplify VMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mshanusimplifywork.github.io/simplifywebsite/categories/contigent-workforce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Blog post</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/third-post/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/third-post/</guid>
+      <description>I am just showing Ritesh what to do.</description>
+    </item>
+    
+    <item>
+      <title>Contigent Workforce</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/contigent-workforce/</link>
+      <pubDate>Thu, 18 Aug 2022 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/contigent-workforce/</guid>
+      <description>Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>My Second Blog post</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/second-post/</link>
+      <pubDate>Sun, 19 Jul 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/contingent/second-post/</guid>
+      <description>Hello world</description>
+    </item>
+    
+  </channel>
+</rss>
