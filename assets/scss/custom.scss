@@ -1,0 +1,232 @@
+.navbar .yamm-content
+{
+  padding-left: 24px !important;
+}
+.navbar .yamm-content h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    border-bottom: dotted 1px #555555;
+    letter-spacing: 0.08em;
+  }
+  @media (max-width: 767px) {
+    .navbar .yamm-content h3 {
+      font-size: 14px;
+    }
+  }
+  .navbar .yamm-content h5 {
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    border-bottom: dotted 1px #555555;
+    letter-spacing: 0.08em;
+  }
+  .navbar .yamm-content ul {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  .navbar .yamm-content ul li {
+    list-style-type: none;
+    border-bottom: solid 1px #eeeeee;
+    text-transform: capitalize;
+    padding: 4px 0;
+    border: 0px;
+    margin-bottom: 9px;
+  }
+  .navbar .yamm-content ul li a {
+    position: relative;
+    color: #2b2f32;
+    font-size: 14px;
+    display: block;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+  }
+  .navbar .yamm-content ul li a:hover {
+    color: var(--primary-accent);
+    text-decoration: none;
+    padding-left: 2px;
+  }
+  .navbar .yamm-content .banner {
+    margin-bottom: 10px;
+  }
+  .navbar .yamm-fw .dropdown-menu {
+    padding: 0;
+  }
+
+  .yamm .nav,
+.yamm .collapse,
+.yamm .dropup.use-yamm,
+.yamm .dropdown.use-yamm {
+
+}
+.yamm .container {
+
+}
+.yamm .dropdown-menu {
+  left: auto;
+}
+.yamm .nav.navbar-right .dropdown-menu {
+  left: auto;
+  right: 0;
+}
+.yamm .yamm-content {
+  padding: 20px 30px;
+}
+.yamm .dropdown.yamm-fw .dropdown-menu {
+  left: 15px;
+  right: 15px;
+}
+
+.use-yamm 
+{
+    position: static;
+}
+.yamm-content {
+  padding-top: 22px;
+  border-top: 1px solid #00000012;
+  margin-top: 20px;
+  padding-bottom: 12px;
+}
+.use-yamm .dropdown-menu
+{
+    position: absolute;
+      width: 100% !important;
+    left: 0px !important;
+    box-shadow:0px 31px 30px 8px #0000000f;
+}
+.navbar .yamm-content h5, .navbar .yamm-content .h5
+{
+    text-transform: CAPITALIZE;
+    padding-bottom: 0px;
+    letter-spacing: 0PX;
+    font-size: 17px;
+    border: 0px;
+}
+
+.navbar-expand-xl
+{
+
+}
+
+.megamenu-img img
+{
+  width: 80%;
+}
+
+.homepage-accordian .accordion-header button
+{
+ line-height: 22px;
+}
+
+#how-we-are-different .accordion
+{
+  --bs-accordion-bg: none !important;
+}
+
+
+
+
+/* CUSTOM CSS */
+
+p
+{
+  color: #333333;
+  letter-spacing: 0.3px;
+}
+.theme-1 .navigation
+{
+  padding: 0.6rem 0rem;
+    box-shadow: 0px 0px 10px #0000000f;
+    border-bottom: 1px solid #f4efef;
+}
+
+.dropdown-toggle::after
+{
+ display: none;
+}
+.navigation .dropdown-toggle .fa-angle-down
+{
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-transition: all 0.4s;
+  -o-transition: all 0.4s;
+  margin-left: 5px;
+  color: $color-primary;
+}
+.navigation .dropdown:hover .dropdown-toggle .fa-angle-down
+{
+  transform: rotate(180deg);
+}
+.section-title .title.no-sep::after
+{
+  display: none;
+}
+.section-title .title.no-sep
+{
+  margin-bottom: 1rem;
+}
+.btn-primary
+{
+  /*padding: 0.6rem 1.5rem;
+  font-weight: 500;
+  letter-spacing: .4px;
+  font-size: 15px;*/
+}
+.fs-40
+{
+  font-size: 40px;
+  color: #1d2131;
+  font-weight: 800;
+}
+.caption
+{
+  font-weight: 600;
+  color: #00a000;
+}
+    
+
+.custom-list
+{
+  margin: 0px;
+  padding: 0px;
+}
+.custom-list li
+{
+  list-style: none;
+    width: 100%;
+    float: left;
+    margin-bottom: 6px;
+    text-transform: capitalize;
+    font-size: 16px;
+    color: #333333;
+}
+.custom-list li:after
+{
+  content: "\f058";
+  font-family: var(--fa-style-family, "Font Awesome 6 Free");
+  float: left;
+  margin-right: 15px;
+  margin-top: 0px;
+}
+.ourfeature-card
+{
+  border: 1px solid #0071e34a;
+    border-bottom: 5px solid #0071e347;
+    min-height: 220px;
+}
+.ourfeature-card h3
+{
+  font-size: 18px;
+  border-left: 5px solid #0071e3;
+  padding-left: 20px;
+  margin-left: -26px;
+}
+
+.ourfeature-card:hover
+{
+  background-color: blue;
+  color: #fff;
+}
