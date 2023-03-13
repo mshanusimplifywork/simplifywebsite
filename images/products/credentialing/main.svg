@@ -1,0 +1,1678 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3173.797" height="2244.797" viewBox="0 0 3173.797 2244.797">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_496" data-name="Ellipse 496" cx="146.431" cy="146.431" r="146.431" transform="translate(2639 250)" fill="#fff" stroke="#b27400" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="664.877" height="493.621" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect width="313" height="340" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="434" height="487" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_20572" x="128" y="129.797" width="2925" height="2044" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="17" result="blur"/>
+      <feFlood flood-opacity="0.114"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <path id="Rectangle_20571" data-name="Rectangle 20571" d="M0,0H2735a12,12,0,0,1,12,12V1775a12,12,0,0,1-12,12H12a12,12,0,0,1-12-12V0A0,0,0,0,1,0,0Z" transform="translate(-0.146 -0.146)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 200 200">
+      <image width="200" height="200" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/4gxYSUNDX1BST0ZJTEUAAQEAAAxITGlubwIQAABtbnRyUkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFjcHJ0AAABUAAAADNkZXNjAAABhAAAAGx3dHB0AAAB8AAAABRia3B0AAACBAAAABRyWFlaAAACGAAAABRnWFlaAAACLAAAABRiWFlaAAACQAAAABRkbW5kAAACVAAAAHBkbWRkAAACxAAAAIh2dWVkAAADTAAAAIZ2aWV3AAAD1AAAACRsdW1pAAAD+AAAABRtZWFzAAAEDAAAACR0ZWNoAAAEMAAAAAxyVFJDAAAEPAAACAxnVFJDAAAEPAAACAxiVFJDAAAEPAAACAx0ZXh0AAAAAENvcHlyaWdodCAoYykgMTk5OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFueQAAZGVzYwAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAABJzUkdCIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z2Rlc2MAAAAAAAAAFklFQyBodHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAFklFQyBodHRwOi8vd3d3LmllYy5jaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkZXNjAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAtIHNSR0IAAAAAAAAAAAAAAC5JRUMgNjE5NjYtMi4xIERlZmF1bHQgUkdCIGNvbG91ciBzcGFjZSAtIHNSR0IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZGVzYwAAAAAAAAAsUmVmZXJlbmNlIFZpZXdpbmcgQ29uZGl0aW9uIGluIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAALFJlZmVyZW5jZSBWaWV3aW5nIENvbmRpdGlvbiBpbiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHZpZXcAAAAAABOk/gAUXy4AEM8UAAPtzAAEEwsAA1yeAAAAAVhZWiAAAAAAAEwJVgBQAAAAVx/nbWVhcwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAo8AAAACc2lnIAAAAABDUlQgY3VydgAAAAAAAAQAAAAABQAKAA8AFAAZAB4AIwAoAC0AMgA3ADsAQABFAEoATwBUAFkAXgBjAGgAbQByAHcAfACBAIYAiwCQAJUAmgCfAKQAqQCuALIAtwC8AMEAxgDLANAA1QDbAOAA5QDrAPAA9gD7AQEBBwENARMBGQEfASUBKwEyATgBPgFFAUwBUgFZAWABZwFuAXUBfAGDAYsBkgGaAaEBqQGxAbkBwQHJAdEB2QHhAekB8gH6AgMCDAIUAh0CJgIvAjgCQQJLAlQCXQJnAnECegKEAo4CmAKiAqwCtgLBAssC1QLgAusC9QMAAwsDFgMhAy0DOANDA08DWgNmA3IDfgOKA5YDogOuA7oDxwPTA+AD7AP5BAYEEwQgBC0EOwRIBFUEYwRxBH4EjASaBKgEtgTEBNME4QTwBP4FDQUcBSsFOgVJBVgFZwV3BYYFlgWmBbUFxQXVBeUF9gYGBhYGJwY3BkgGWQZqBnsGjAadBq8GwAbRBuMG9QcHBxkHKwc9B08HYQd0B4YHmQesB78H0gflB/gICwgfCDIIRghaCG4IggiWCKoIvgjSCOcI+wkQCSUJOglPCWQJeQmPCaQJugnPCeUJ+woRCicKPQpUCmoKgQqYCq4KxQrcCvMLCwsiCzkLUQtpC4ALmAuwC8gL4Qv5DBIMKgxDDFwMdQyODKcMwAzZDPMNDQ0mDUANWg10DY4NqQ3DDd4N+A4TDi4OSQ5kDn8Omw62DtIO7g8JDyUPQQ9eD3oPlg+zD88P7BAJECYQQxBhEH4QmxC5ENcQ9RETETERTxFtEYwRqhHJEegSBxImEkUSZBKEEqMSwxLjEwMTIxNDE2MTgxOkE8UT5RQGFCcUSRRqFIsUrRTOFPAVEhU0FVYVeBWbFb0V4BYDFiYWSRZsFo8WshbWFvoXHRdBF2UXiReuF9IX9xgbGEAYZRiKGK8Y1Rj6GSAZRRlrGZEZtxndGgQaKhpRGncanhrFGuwbFBs7G2MbihuyG9ocAhwqHFIcexyjHMwc9R0eHUcdcB2ZHcMd7B4WHkAeah6UHr4e6R8THz4faR+UH78f6iAVIEEgbCCYIMQg8CEcIUghdSGhIc4h+yInIlUigiKvIt0jCiM4I2YjlCPCI/AkHyRNJHwkqyTaJQklOCVoJZclxyX3JicmVyaHJrcm6CcYJ0kneierJ9woDSg/KHEooijUKQYpOClrKZ0p0CoCKjUqaCqbKs8rAis2K2krnSvRLAUsOSxuLKIs1y0MLUEtdi2rLeEuFi5MLoIuty7uLyQvWi+RL8cv/jA1MGwwpDDbMRIxSjGCMbox8jIqMmMymzLUMw0zRjN/M7gz8TQrNGU0njTYNRM1TTWHNcI1/TY3NnI2rjbpNyQ3YDecN9c4FDhQOIw4yDkFOUI5fzm8Ofk6Njp0OrI67zstO2s7qjvoPCc8ZTykPOM9Ij1hPaE94D4gPmA+oD7gPyE/YT+iP+JAI0BkQKZA50EpQWpBrEHuQjBCckK1QvdDOkN9Q8BEA0RHRIpEzkUSRVVFmkXeRiJGZ0arRvBHNUd7R8BIBUhLSJFI10kdSWNJqUnwSjdKfUrESwxLU0uaS+JMKkxyTLpNAk1KTZNN3E4lTm5Ot08AT0lPk0/dUCdQcVC7UQZRUFGbUeZSMVJ8UsdTE1NfU6pT9lRCVI9U21UoVXVVwlYPVlxWqVb3V0RXklfgWC9YfVjLWRpZaVm4WgdaVlqmWvVbRVuVW+VcNVyGXNZdJ114XcleGl5sXr1fD19hX7NgBWBXYKpg/GFPYaJh9WJJYpxi8GNDY5dj62RAZJRk6WU9ZZJl52Y9ZpJm6Gc9Z5Nn6Wg/aJZo7GlDaZpp8WpIap9q92tPa6dr/2xXbK9tCG1gbbluEm5rbsRvHm94b9FwK3CGcOBxOnGVcfByS3KmcwFzXXO4dBR0cHTMdSh1hXXhdj52m3b4d1Z3s3gReG54zHkqeYl553pGeqV7BHtje8J8IXyBfOF9QX2hfgF+Yn7CfyN/hH/lgEeAqIEKgWuBzYIwgpKC9INXg7qEHYSAhOOFR4Wrhg6GcobXhzuHn4gEiGmIzokziZmJ/opkisqLMIuWi/yMY4zKjTGNmI3/jmaOzo82j56QBpBukNaRP5GokhGSepLjk02TtpQglIqU9JVflcmWNJaflwqXdZfgmEyYuJkkmZCZ/JpomtWbQpuvnByciZz3nWSd0p5Anq6fHZ+Ln/qgaaDYoUehtqImopajBqN2o+akVqTHpTilqaYapoum/adup+CoUqjEqTepqaocqo+rAqt1q+msXKzQrUStuK4trqGvFq+LsACwdbDqsWCx1rJLssKzOLOutCW0nLUTtYq2AbZ5tvC3aLfguFm40blKucK6O7q1uy67p7whvJu9Fb2Pvgq+hL7/v3q/9cBwwOzBZ8Hjwl/C28NYw9TEUcTOxUvFyMZGxsPHQce/yD3IvMk6ybnKOMq3yzbLtsw1zLXNNc21zjbOts83z7jQOdC60TzRvtI/0sHTRNPG1EnUy9VO1dHWVdbY11zX4Nhk2OjZbNnx2nba+9uA3AXcit0Q3ZbeHN6i3ynfr+A24L3hROHM4lPi2+Nj4+vkc+T85YTmDeaW5x/nqegy6LzpRunQ6lvq5etw6/vshu0R7ZzuKO6070DvzPBY8OXxcvH/8ozzGfOn9DT0wvVQ9d72bfb794r4Gfio+Tj5x/pX+uf7d/wH/Jj9Kf26/kv+3P9t////2wCEAAIDAwMEAwQFBQQGBgYGBggIBwcICA0JCgkKCQ0TDA4MDA4MExEUEQ8RFBEeGBUVGB4jHRwdIyolJSo1MjVFRVwBAgMDAwQDBAUFBAYGBgYGCAgHBwgIDQkKCQoJDRMMDgwMDgwTERQRDxEUER4YFRUYHiMdHB0jKiUlKjUyNUVFXP/CABEIAMgAyAMBIgACEQEDEQH/xAAdAAAABwEBAQAAAAAAAAAAAAACBAUGBwgJAwEA/9oACAEBAAAAANf+gxiEL0X33n3ngfAhDzBz5cVvoMQxCF95AEFkpasYrhCAAOfLnxXh9B+jF6wcgqbReuO5/wClWgiqAHPny5cTSrz5/HDTLwIhkrGiNMcrk7Wa8OTmDlyLkq0zO8Vcx0N0bwjWJrkCK6x2akpDuTqqDkQbjIjaikkTzOMjuA3kzmxNthJHUYboNcg63NJZjTo4geEo5kAYXvPFg3BgChW0lWS3UZoAaVGpIhlPaqWYRpeB0MdnSzsyJ1tlKspOoxWqpz5aDpVyXydySZkIHDHQVaKdzjahwzDNg6oVWkZvIskrfBMTStleBpMJN+i8C2EtHGp+8qJngXmxvw/MFjkZKQEy8hs2mEatZmMW60pBkWeHFnNGk+suvsmakJ7ZjpuXBU1I2DMijLDvLe5+w1LUm1xoZOkAQmubFPxDbiRJa0sKjRy9rDXu+lzZirlxnB9Zsq0bwfId9LtpqemPRZVVCP8AJCsEATZqNMrUdVi2dmlWx7RIj6RaCpxBOdyopnSWRtHYYXtapkgR0SE8KZUadazwvjoUnkk5yqaoeNVoxejLvcCy0gP19tPICFFySx6bWlIkE9yH1FRM+QoxW9W3i+p8e2dWcz1WJKDrBORAgQcB86eOGS3gs5mUWKw5XdnSQpuHQ+4RcgQIrh88aNHjJOJ6UlgIEJR2WOIuh96S5EiSJKyieNItUq2MyygDAEJvKyhIdjXMMoTJkk9WL1gqhAzeLPfRZRPfcliT3wsrEaVvgWYp6WiMPZ2sf3kAI7hXONLPy66F5RVPjND86FS+Us5INfp759yEo6l2AUS59XcCqbEWodm4mO+/mVSkD770Pp14a1THyNramZH14Y21jIqVnaXHRD9H37ednzqzPSko9OpfvBmJPJO6yB//xAAbAQABBQEBAAAAAAAAAAAAAAAFAQIDBAYHAP/aAAgBAhAAAADfNYiV2XHPcvh70hz4BlLeGF97NGLNPK5htFnXJKFalJacJzYa1R05lZYlZKgoAUCniczdYgga6jnjOd02hvzEH5wS8SGZKe3ZNJWDcuggK07X6aQSRPQB8oAL07PUXpMnmZkBVFnt9bRzq9dmVC1Bdq/0DQKOh8o7nlJkjukGyYR7kQFz3yXeqNI//8QAHAEAAgIDAQEAAAAAAAAAAAAABQYBBAACAwcI/9oACAEDEAAAAPMsmcv9hURGa29J6P7n0s+PruZjCG4EPVWrCEfOla+RK8BpRrYCHe8gqfXWNZNXC5DQutpObJ2H2u0UL8b6v55VhX5PDTcJF7lZe8iXdueHfRd2BvEBLnhoKdZy4z+gMoIhW8F4ZrHYi4NpAmq+SDdpIH7+zCXu2K49LUaD12iCDzbivyTBSk4TrOxpwzKaDlD/xAAjEAABBQEAAgMBAQEBAAAAAAACAQMEBQYHABIIERMUFRAX/9oACAEBAAECAEFBQfX19fX09fX19fX19fX19VFRUVFRUVFBQUH0QPX19fVU0/apPyva+WFH8gK219fRQUfpRUVFRUUFBQfX6QfX11+w33aribIsoLbcPPbHnnyNrLJRUVFRUVRRUWZY+EX39Nr66rS9Z6k3Y3sR2L/TmtDYUEVOY9RoL5U+lRUVC8N2l20PQs2AH4iCveryT4xFo617IW3OrCswN6VY7A450P2VSJyTJtpelsdvGkV+0ptxW6SNYtOqfyj1ow6Okq6dmpHO7Dmb9ZIQ2a0+a9AXVyNdab246ZP2s61RFRFrNVSdAptRptnuNTnW6mLXrE8YGSx1jM8+k1zlqlXNe0TulkSUUVkl4qiqeIMG46FsLGZg0rnK5uG00Cj0ys5w9TyrN2knuGImBj+j6ueIQEhfoj/QbRXecSY9oG7oN5EnyJ+86Fh7asWzOpsaiUQGThl4YvVbdOVUdecSzLTSp83lrDmhl9rjXfPD6DY3/QcPoEduTqZ+PmFUu1L1Y9FNtYbcFYB1S03VJNhYNO8vj6LC1uFtIHMmNrW67LYeHfhpZQSMTbMxXa6bXWNeUFt0HQMfJC9EnBGgDzRinVxi9XERrBncZtzy8C6J48uOIsHYj8B+oKmajNRm4oRNaO/Kyb/oweupnxe0Ftj9DVWVvH2ETOXegjWPmLseJ2Btm2bTjTTTbTbYBtW9m7pn/OUSq04b02nraGAV0HS2q65atDa/m4A2fh+H44jZNkCiVlG6ZUbHxEop1JaRnplPHxcfJsN9Ymf0xpU9sB+OkEyIjIyAmzAwJS6nhtpUwMmxnOUTINhFZYy1dRaSZ1fT1Cvqvjy8FfMjIyMgIDBwHP0I9hzeBw7Zcl/x23qu8qNdL2vTuuzTrWpIveNMckozIyMjIDEwMXBNCPxCIdM56mBvX9jZCkZhqmYks885CKGZmZmYOA4JiYOA77yHNJs5JALrMhLetnVzEAof+pw/B+5uG4ThGbgOA4LguW2j0nyatvk/ltE0qCjDzbsZ6phY57m0PmEKjZkk6TpOE4bhug7PutD8gr/sk2wc8QcneR0CI3GKClfGpq6tar40AolxgNDyn/2qr7lVag3Tc33S9FrvtVVPz/P8+RadYLUFqsKsjQmGWEbb/EY/49IoG1hT8ZuicvbtARPoS+/VUYe5ftQhAyTDQNMNxwZbExdXrtoBBJrLDMX6mSh4pfaIgoLflJcYDceqMBFabAERPPuQXZtU4sFG3uaXLCj4iJ4nn2DZeEP3nNLgOitiIB4v/FIE6hsZcmekYRKjnf/EAD8QAAIBAwIEBAIGBwgCAwAAAAECAwAEEQUhEjFBUQYTImFxgRAUMkKRoQcVICMwUrEzU2JygpLB4UNEUKLR/9oACAEBAAM/AP8A4IAEnpua/Rn4dkeK81yN5l5xWymdh7Hg2Ffo/T+w03VJ/fgSMfm1eDGbDaRep8ZYq/R1qZUNcz2pP96gZfxjLVpOpwedY3sFzH/NE4f8cfsH+GKH06F4W0eS/wBSn8uMbIg3eRv5UHU14h8WtKrStaadkiOyicjzPeZhu1eW3E+7k7IBsKuJGHFNwDsKacgK7AkDmp/5Fanbt5qsGA+8rhWrxNpF6s9reyI45MrlHPzHOmuFSDWojKFwHnjXEsfvIg+0PcVp2p2UV1Z3Mc8EgykiHIP8GNxQIo01H6dN8N6DeaneFjHAhIRd3kboi+5rV/FmttNczgLGeCKGM+iLPML8B1oSXHlgbRJxIP8AEP8A8pprdpoznmCB071cR4KxkZUbjmT2HYVqCshVihG3pA/qauOMQ3cglRhj1gZ/3CkMP1mz9QAzLH/yKm4YpUdlkXHA42I7D4GtV0a/Ywj187qy5R3CDnJH2kFaZruk21/ZSiSGZcjuD1U+4/aAqNeZqCZVxKDUTBcPUMnWkbkaH0bV9Q0u+nnheWGO3EUEQICebK3qc/0FPLdOWGAzk/Ak5qZpgcHPcdRRlQJLFxjlnG9QPGvCgIA5DnS4mZFYEg1qOk3RPHIADz5/iKiv41hUqLkD0AHCv7EHkaRpnjjj4VmDFY+XDIu7R+2cbVccMVxE3DPAQQ/Ins3z61+qdRjeRuGwvnEd3H0gn5CQexpCAQQQaXvSDrUSjnUSA+qoEz6xVvGDmUVPAwaNyDV7AVEhyO9RSKoMlRSgeuo3A3pW5GtjS3mrWug2sgZLUGW4K/3snJT/AJRRMyoDS8K8Qz7VGqDhTFLwDAqOSLhcZz0NWVxZu0cQ4+ZNPoOtoygxrxjJ7U1xpdtqangZisc/D92VPsSVFJPDKFHl3MZc4GytycfI70thq8sMm8UuVkX3PI/KvO0b9X3U2Z7LCKxO7xfdNW394Kt1B/eCrWIHMoFRZYRycRrVp2Yq3CKvpgeOZj9CmpEYFGIq+tCAxJFRPwgvg+9QTFRxitL0fSrieScApGTtzz0FPcapdTsw865lZ27ksa8+dBnJzlsdKRYhtQBUUGUUBzFRyRMCOYqDDyhBSah4Ve3c7y2pU56SRHhz+Qp7jTbpQoD2zrMFJ6HZsUnmW8wI9ThfkdquESCeNisgzEze45ZrVlbIuX961eRSPPNXMx9crN8TRBrajk/SazS5yNqvrRgUlOB3p5NGfz1Vn+7ipJbt5XJJY7CkErLncDJocC70CVrtWKBz2oTWEhx0owR30Gd47iUD4Ouf6imj8QXMY+zLA23fPqphDfRA7xPlPhkMKDJLFkZ8tnHfKHFCaNXXqu9ZoUc1iic4oijn6BWKA5ml33ppbh5CdlP59BTSXl11wFHzNGJuGKB5iOfCNhTWDAXOnzx++Nq0u+H7vjHxqOYKQaigUsxG1aF5clv5pL+wqOXW7tUUhWlU7jucUV1yyB58JiJ+ZWsX1wBuGiO3uopVulI2YqT8nX/qlkV0zngkJHur+qiuawKyPoY70WFEHlRx9mmXO1N2NC0s5ZW2IU8IqS8aRy/Nz6j0ApBKIIQeFeZ6k96JS7buQKstFtA7YVV5DYVpVw4gfTxKjbFuA4/E4q1MaXVpG8SkK3CQcENuCM0+p2iOJByp7JzEDgkHJHatLsLkg6PLNxDIkbCg9MjNWuq6tJLDC0eeAcJ6HOaEWrl1P2J+MfPBpU1q8Q8hLIp/1ZoC8QFv/W/NSVoSzQKTu6rsT1TamZQccxT9qIHKuDmKIpTSdRUZHKkbpSZ5UltF9WQ4whZ/gKlu7h/URGrBUUfmT71HJecG+WY1GLeUL1YUuqEFlaRRuEJ9NP8AWUkuNMjmCqF9ajktW+Yn+oxCYQ+QpUkDywMBSORA6ULO2ESnlUd1Z3atCsnmqBuSOXTIpZVw9ih8sYTA+yOwoWGscOMBXjP508N9clefkhh7lNjWdauJAQVkihmHwZQa+r3l4w38uJlHzfNLHrUXqyFk4sfMio5YUkXcMoI+YoE0ak4tqlHSmo0TWajiheRtgqkn5VNcLq9yz74ZR/SmEe/Py2Y/E0n63gUnHExAPbIq7tZJY5lxkKyt0NRui5AqLyyAopIW4uHnyFSeUjbLnnvRjlSOTDK33hviisLyoQVNfVNVnkIwAyk/DiApZbOG5G7BcsB2+y1Mv1Bic5iltWPvH6k/EGuG+lTH9omfiMZq6E890oLJA6hyBy8wkKah1LRIirZKqp+TCjRag/MUB0p+1P2pu1N2podEnYdNz8BRTRZY8epmCg9+Js1HbxXZ7KqCnS8WVeasGFaTql7BBAXWYRFmjKkBQNudMCN+tZti3XFSRXrExlsIeE9Aa1+IP9aWJS7+kxFsFfcHka8Yya08MkFrLZyDbh4+NP8AMW2p3s5YpN8Dali1GRQuA54D/qpbjSVSYjiVyj8XRk239iK4bG7Rckwss0ffCHl+GxrE9rOD6clM+3MfkatbO9vbafAi1CAW7H+Qk+lv9Lb1PE6WkrFhxTQ/ApvQ7UKHah2pe1J2pe1LSnw/dsRsIZSf9uad9UtbfchJjJ7Oo9amiNOQZ+27E1mRqEHje0UnaWKVPyzTBhvSvDwHqKsJZsu4ya0k2TBLiEuGB4eIZGDVl9WUK6MQBkgg0hV8c8GiksrDmMn8KeLWNQt1k4Vmjjmjzy4yOvtnY+xqC7tkbGNsFSckfdZT7ryNFXurB8gD7DdRw7qalnszLFvLGV4lXmeE4yKiuNMe7MnE8Wr8JTqoeIAfwBS3NjPEeToRV9Z3Vs0lviSGKaPj+66jHCadZkTGFQFa51Np2qWd6gy0EiuB3wdx8xVre2Vrd278UUqK6H2NNNYSiGRVkx6Sa8ZXF6Vk1a2VQdiqMc/HOK8Xjy3j1az7E8LV4ytQJo9et0fmFVDg+x3rxhb8E19e2syHZo0QqQD7moAZ+Fsd6LvFOp+xb+WT7h8U0eplM+m4Cyr/AJ8YP40GktpgfUUI4vde9JZqZAowWyM7Her4z6vMV4bYzRFNtmZB+3t9G1T6zpFybVQ7FGYJ1DY3x8a1KG5lWaBgQ7hdjkYwd61O7EhCKiIhfiY4DD2q9aG4xH/YDL9CM1KnhS3V+QkkA9sGuBwQ21Q3bqTigxBSSQDsGr6vGC2T7neo44HHFjFI11LFG2SSab9UNk7+aW/3CnT9TuCQwLflvQm0tXI3D5GOzVFa2IeZBM+F8pOmfenl8IsXxxLNvjuwz/CNeG/Eg454Ak4P9qmxb2avCkEMSOZZFjJKrxYAJrR5NJWa0tVS5gywYD7fs/cVBpQaCK2SBeMsY0OVDPuce1SR57V5R3NWyxrmVTViLRj5g5VEVmtNNYSyHILjdFqaed3kcu7HLMaYW/D91UBPuzb076hbQDcwQgf6pK+q6XHGwB3UE/8AFSTlBvnZR2Xual0nwrGsgKtORIR/CzW/0B1II5io5NXvCn2fObh+AOKzQU1cBfS5FX0qSQi5kZTs3qwPgKCZHAVHVjTyOgUZDNgY+9/1SwxkEbA5Pue9BZpbmUZZ25VNfXMEKKZGZhwoozliais4La61RQ8mBIIiNlY96WONVAwAMD+GKSJC7uqKObMeEfnWn21nLHbXCyzOpAKHIX3JpmkY0c1mmVDtRaVnGdzuAaTYFWftxMP6CiGJjQluHBfGAvsKijhLzMFVdzmrmQkWlg0qZwuxI/EVqcMx1nU7ZYcIEtYeHl3egFA/haLo9s0+oX8FrGOsrhfwHM14TsUZNKtZ9RlBwGI8mL8TXju6gkW3tbKyBBAKKXcfNq8QeJdSY6lqtzdLCA4jkkJUsx5laIQit+X0YpmBoudlzQuftxjHsKIc+otF/Iu1eFdQggS+07iSNgSASOL414b02yjjtrK2t4Y+ShAAKgdR5ciOP8LA/wBP2R9Om6ZatcXl1HBEPvO2Pw71pVqHTTbJp26STHgX4hRvXjrVHZf1pJBGf/Hb4iH5b1d3cnmTzSSuebSMXP8A9qc9aJUjFS6Pq8E5yYweCUd0NRXEUcsTBkdQykciDTDpR7VxUe1cTA8NKowFxtScIytIDkCo+AgqCK8N6lky2pjkPKSF2hcfNCK/SDpwNz4b8Y3pCb/VbxzIvyev0h6Leraa3ZxRsG4fNaPKN8xVq8nBqOmvD/jibjFaLq0fFZ3scvdQcMPiPpg8NcNvDCs926ceGOFjB5Fu5Pata1q7ee7umlY8s8lHZR0qRtiayCARXRsbUW5kAHtSjFEb/gajZl0i7fnk2rH846HakOBil4TSKRtSKo2pBgCsbY+jiXNKd6RYmyOhqyvNEvTLErDDncUwECAk8KkH4CrqyulmhkaKRDlWU4NQaxbJDcMqXSjfs/0Xerarc3NxIWkmYt/1TBjkis0xyFFYB4hk9aTqaHCdsGsFNwKeOVJFkZXVsqw2II3BFWfibSFhuGUahbKBMv8AOvSQUM7CsCuJwMVgYxRoFaCrXKgtHyn26GksPC8oz65jwL86y5JI9IxTB8CTJznAqa3nR1YhkbIIpdV0qOUn94vpf496y5Yfd3rAPbalL89s/CgjA7GvbnTDkM+9DJ57UpxlTR4tyMVqGj6nBe2UxSWFgVPseat3U1pfibTBNHhJ0ws8Gd42/wCVPQ0pXNHfFEEZrABo/CtsDnXCKFBbeU9lNDUNbSyjbMdqgLe7GuGBSSVLEmlzK5GAo2osyqGPOvLu5bZjgNt8645HU1hB1PLNEjYgE/nUYzls0vPBFDcLn8aON88+Qp1wCM9uprDA1wtjoefWtT8P6jDe2UpR1OCTupU80cdQa0nxPahUZYbxV/eWzHce691+g55V6a6CsU2TTcOTVt4d8N3c7OONlKovdjUtxdPJI3E8j8TN7ml4QAQPhX7if4rR41ORUlrqR3xhg2fga//EAC0RAAICAgECBQMEAgMAAAAAAAECAAMEERIhMQUQQVFhFCKBEyAjcTNiobHB/9oACAECAQE/AOU5znOc5w5NIPVxBm4+/wDKo/s6gcETnA05TlOU5mAGGcpm5DlSFOh7yu6vWty82cSVO/iUeI21kFG4+6+kwfEK8lSOzjus5znOc5j3leUwPWJkq3rOQMtPETIsPX2lu0OwdSrOKtpxMxQtgZezzFzXrdXB+5P+pTl121K4PQiHJUesszZ9TYYIGIiZLqRLshnG42+Ev7xwZZ9+GP8ARhKU+8j3/wDZ4bYwQoT2ML9YesB6RHGoWEDEkRm2J1FehLcS462CNyxCtnD1j4tleG5K6BEoH3fiUqFdoDuCaefRVe8+hqmdWlQGu5iDcLlEHrrcrua20bJ6dhueIbXJLD0MOSb8NxyPbtMQ7WIuwDKsLmisPWJg6n0YgqPvBX8zxFNEk+0p3qOo4mU8FtblsTNsUudD46zCY9RP0DVcT6HrKt9PiYC/wfG9icZxPkZm0Gyk676ldTaGh6RwdQ/xs51sGXXnqdTBU2WjoB/UvUfqAf2JW/QD51MFNYyfI3+zU1DTWSTxEzqkVRod5Yksxgzd9THrqqTS/kyyzbE+w/5MwsS251Cj5Y+0rThWq+wh8tTXkSqqSTMu0u3wJYdmMisJqwtwBUfmYXhqWMQ9y7HpMfHrorCKPLU4w6Hcw2+whdjD1Gpksa3KmPYJZadTkQ0/Ub3lOfkoRqxp4dmm9W5enrBo9pqO5Y7/AGZeML69dmHYy5HRyrDREYwDyHeeGUmvGBPdusRyNQdR5iHy8Tx6noZyPuUdDD388WtXyKlPYsJoBTB6Ssnj+Z//xAAwEQABBAEDAwEGBQUAAAAAAAABAAIDEQQFEiExQVEQExQiMmFxIEKBkaEVYnKxwf/aAAgBAwEBPwClSpUqUeDmPALYH0ehqk7TNQAv3d/6C/8ASLSDRFFUqVKlSpGkFS0jT4mFr5Ghz/B7KSGS+ix9m4Bwo+VmaTi5LakYHccPHzBapo8+DIL+KN3yu/4VSpUqClwT+VPhe08hUsWP2kzB9eVisbwopLFUpcdkg4NFYrnFm1/VqzsGLJx3xuHDh/KysWXHnfE4ctKEbj2UeDI5DT29yiE5jXcEKTCaflWnYYjs9ymfOobTSm8Pvy0/wnvorW8ZjpPabQU2Ng6NA9CiDa2FBpJUTAxoCjAMllR5EBsNIJHgqE7habkwvyWsa/kE8KboFnfHEf8AFbStpW1f1CVHUZFpcj55CT0anGi37pkYe+lJGyKI01vPcDlYdeyAK90YzIY+m9eoCyRVFSO5IP2U+f7KZ7D1BR1NqGpBGQeEZB4Whv3Nr+61k8VSxpnOO40pZHFgoA8rHMjWW5i32wr24lj+vT9lIAS6x1BWtEe+nzVH7hblu9dKyxBkNs8EqV4Ju+FA7bx5UEzRtttpmbHsAEf8LJmbHG95446LGefZE/YpzLLj2q1rEm7UJfDTX4bTcrIawNEjqWj5Er5HBxJACidyo5gG9LWU6WV3xfoFFFTA3z1/RZ+fBiQPMjqsU0dyp5TNO95/Mb9T6RxSPPwtJTMCdxo0FgYrYGkDknqVEEJHNIoovxwN5DjX0Wpay+BrTHjvLT3WdmzZU5kefoB4H4IMOSTno1R4MLPy2fqgxo7ICioIw5ocFG1yazlbSQjEL6KbAxng7om/ss/SsZhFN6qfDMfI5HpG0AUB09QsWcxPB7HqFE6N7AR3TQ0Jx9H/ACrOk3zV2bwnNBWRFslICHqPTT5pBKGXw5dkOqAUziI3nwCjyV2UsbXOshf/2Q=="/>
+    </pattern>
+    <filter id="Path_41504" x="209.646" y="280.553" width="2761.88" height="135.908" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.012"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681" x="403.5" y="1327.298" width="1780" height="792" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-3"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-2" x="1295.5" y="2122.298" width="888" height="662" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-4"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-3" x="403.5" y="739.297" width="889" height="584" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-5"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-4" x="1295.5" y="741.298" width="888" height="584" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-6"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-5" x="403.5" y="2122.298" width="888" height="662" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-7"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-6" x="2187.5" y="539.297" width="697" height="1132" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-8"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_18467" x="2187.5" y="539.297" width="697" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-9"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-7" x="2187.5" y="1682.297" width="697" height="907" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-10"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_18467-2" x="2187.5" y="1682.297" width="697" height="121" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-11"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-8" x="849.5" y="539.298" width="443" height="199" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-12"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-9" x="1295.5" y="539.298" width="443" height="199" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-13"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-10" x="1741.5" y="539.298" width="443" height="199" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-14"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_17681-11" x="403.5" y="539.298" width="443" height="199" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur-15"/>
+      <feFlood flood-opacity="0.02"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_22487" data-name="Group 22487" transform="translate(-235 -142.203)">
+    <g id="Mask_Group_22" data-name="Mask Group 22" transform="translate(1108.375 2227.443) rotate(-50)" clip-path="url(#clip-path)">
+      <g id="Repeat_Grid_25" data-name="Repeat Grid 25" transform="translate(2490.41 203.228)" clip-path="url(#clip-path-2)">
+        <g transform="translate(-2432.5 -185)">
+          <line id="Line_611" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 -157)">
+          <line id="Line_611-2" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 -129)">
+          <line id="Line_611-3" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 -101)">
+          <line id="Line_611-4" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 -73)">
+          <line id="Line_611-5" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 -45)">
+          <line id="Line_611-6" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 -17)">
+          <line id="Line_611-7" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 11)">
+          <line id="Line_611-8" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 39)">
+          <line id="Line_611-9" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 67)">
+          <line id="Line_611-10" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 95)">
+          <line id="Line_611-11" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 123)">
+          <line id="Line_611-12" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 151)">
+          <line id="Line_611-13" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 179)">
+          <line id="Line_611-14" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 207)">
+          <line id="Line_611-15" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 235)">
+          <line id="Line_611-16" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 263)">
+          <line id="Line_611-17" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+        <g transform="translate(-2432.5 291)">
+          <line id="Line_611-18" data-name="Line 611" x2="924" transform="translate(2432.5 185.5)" fill="none" stroke="#b27400" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_22470" data-name="Group 22470">
+      <g id="Group_22469" data-name="Group 22469" transform="translate(233 211)">
+        <g id="Repeat_Grid_23" data-name="Repeat Grid 23" transform="translate(2810 1836)" opacity="0.79" clip-path="url(#clip-path-3)">
+          <g transform="translate(-321 -222)">
+            <circle id="Ellipse_484" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -222)">
+            <circle id="Ellipse_484-2" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -222)">
+            <circle id="Ellipse_484-3" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -222)">
+            <circle id="Ellipse_484-4" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -222)">
+            <circle id="Ellipse_484-5" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -222)">
+            <circle id="Ellipse_484-6" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -222)">
+            <circle id="Ellipse_484-7" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -222)">
+            <circle id="Ellipse_484-8" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -222)">
+            <circle id="Ellipse_484-9" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -186)">
+            <circle id="Ellipse_484-10" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -186)">
+            <circle id="Ellipse_484-11" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -186)">
+            <circle id="Ellipse_484-12" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -186)">
+            <circle id="Ellipse_484-13" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -186)">
+            <circle id="Ellipse_484-14" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -186)">
+            <circle id="Ellipse_484-15" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -186)">
+            <circle id="Ellipse_484-16" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -186)">
+            <circle id="Ellipse_484-17" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -186)">
+            <circle id="Ellipse_484-18" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -150)">
+            <circle id="Ellipse_484-19" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -150)">
+            <circle id="Ellipse_484-20" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -150)">
+            <circle id="Ellipse_484-21" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -150)">
+            <circle id="Ellipse_484-22" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -150)">
+            <circle id="Ellipse_484-23" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -150)">
+            <circle id="Ellipse_484-24" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -150)">
+            <circle id="Ellipse_484-25" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -150)">
+            <circle id="Ellipse_484-26" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -150)">
+            <circle id="Ellipse_484-27" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -114)">
+            <circle id="Ellipse_484-28" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -114)">
+            <circle id="Ellipse_484-29" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -114)">
+            <circle id="Ellipse_484-30" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -114)">
+            <circle id="Ellipse_484-31" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -114)">
+            <circle id="Ellipse_484-32" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -114)">
+            <circle id="Ellipse_484-33" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -114)">
+            <circle id="Ellipse_484-34" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -114)">
+            <circle id="Ellipse_484-35" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -114)">
+            <circle id="Ellipse_484-36" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -78)">
+            <circle id="Ellipse_484-37" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -78)">
+            <circle id="Ellipse_484-38" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -78)">
+            <circle id="Ellipse_484-39" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -78)">
+            <circle id="Ellipse_484-40" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -78)">
+            <circle id="Ellipse_484-41" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -78)">
+            <circle id="Ellipse_484-42" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -78)">
+            <circle id="Ellipse_484-43" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -78)">
+            <circle id="Ellipse_484-44" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -78)">
+            <circle id="Ellipse_484-45" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -42)">
+            <circle id="Ellipse_484-46" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -42)">
+            <circle id="Ellipse_484-47" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -42)">
+            <circle id="Ellipse_484-48" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -42)">
+            <circle id="Ellipse_484-49" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -42)">
+            <circle id="Ellipse_484-50" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -42)">
+            <circle id="Ellipse_484-51" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -42)">
+            <circle id="Ellipse_484-52" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -42)">
+            <circle id="Ellipse_484-53" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -42)">
+            <circle id="Ellipse_484-54" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -6)">
+            <circle id="Ellipse_484-55" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -6)">
+            <circle id="Ellipse_484-56" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -6)">
+            <circle id="Ellipse_484-57" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -6)">
+            <circle id="Ellipse_484-58" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -6)">
+            <circle id="Ellipse_484-59" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -6)">
+            <circle id="Ellipse_484-60" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -6)">
+            <circle id="Ellipse_484-61" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -6)">
+            <circle id="Ellipse_484-62" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -6)">
+            <circle id="Ellipse_484-63" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 30)">
+            <circle id="Ellipse_484-64" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 30)">
+            <circle id="Ellipse_484-65" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 30)">
+            <circle id="Ellipse_484-66" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 30)">
+            <circle id="Ellipse_484-67" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 30)">
+            <circle id="Ellipse_484-68" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 30)">
+            <circle id="Ellipse_484-69" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 30)">
+            <circle id="Ellipse_484-70" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 30)">
+            <circle id="Ellipse_484-71" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 30)">
+            <circle id="Ellipse_484-72" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 66)">
+            <circle id="Ellipse_484-73" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 66)">
+            <circle id="Ellipse_484-74" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 66)">
+            <circle id="Ellipse_484-75" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 66)">
+            <circle id="Ellipse_484-76" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 66)">
+            <circle id="Ellipse_484-77" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 66)">
+            <circle id="Ellipse_484-78" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 66)">
+            <circle id="Ellipse_484-79" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 66)">
+            <circle id="Ellipse_484-80" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 66)">
+            <circle id="Ellipse_484-81" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 102)">
+            <circle id="Ellipse_484-82" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 102)">
+            <circle id="Ellipse_484-83" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 102)">
+            <circle id="Ellipse_484-84" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 102)">
+            <circle id="Ellipse_484-85" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 102)">
+            <circle id="Ellipse_484-86" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 102)">
+            <circle id="Ellipse_484-87" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 102)">
+            <circle id="Ellipse_484-88" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 102)">
+            <circle id="Ellipse_484-89" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 102)">
+            <circle id="Ellipse_484-90" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+        </g>
+        <g id="Repeat_Grid_23-2" data-name="Repeat Grid 23" transform="translate(2 -64)" opacity="0.79" clip-path="url(#clip-path-4)">
+          <g transform="translate(-321 -222)">
+            <circle id="Ellipse_484-91" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -222)">
+            <circle id="Ellipse_484-92" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -222)">
+            <circle id="Ellipse_484-93" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -222)">
+            <circle id="Ellipse_484-94" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -222)">
+            <circle id="Ellipse_484-95" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -222)">
+            <circle id="Ellipse_484-96" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -222)">
+            <circle id="Ellipse_484-97" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -222)">
+            <circle id="Ellipse_484-98" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -222)">
+            <circle id="Ellipse_484-99" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 -222)">
+            <circle id="Ellipse_484-100" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 -222)">
+            <circle id="Ellipse_484-101" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 -222)">
+            <circle id="Ellipse_484-102" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 -222)">
+            <circle id="Ellipse_484-103" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -186)">
+            <circle id="Ellipse_484-104" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -186)">
+            <circle id="Ellipse_484-105" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -186)">
+            <circle id="Ellipse_484-106" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -186)">
+            <circle id="Ellipse_484-107" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -186)">
+            <circle id="Ellipse_484-108" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -186)">
+            <circle id="Ellipse_484-109" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -186)">
+            <circle id="Ellipse_484-110" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -186)">
+            <circle id="Ellipse_484-111" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -186)">
+            <circle id="Ellipse_484-112" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 -186)">
+            <circle id="Ellipse_484-113" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 -186)">
+            <circle id="Ellipse_484-114" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 -186)">
+            <circle id="Ellipse_484-115" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 -186)">
+            <circle id="Ellipse_484-116" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -150)">
+            <circle id="Ellipse_484-117" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -150)">
+            <circle id="Ellipse_484-118" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -150)">
+            <circle id="Ellipse_484-119" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -150)">
+            <circle id="Ellipse_484-120" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -150)">
+            <circle id="Ellipse_484-121" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -150)">
+            <circle id="Ellipse_484-122" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -150)">
+            <circle id="Ellipse_484-123" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -150)">
+            <circle id="Ellipse_484-124" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -150)">
+            <circle id="Ellipse_484-125" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 -150)">
+            <circle id="Ellipse_484-126" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 -150)">
+            <circle id="Ellipse_484-127" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 -150)">
+            <circle id="Ellipse_484-128" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 -150)">
+            <circle id="Ellipse_484-129" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -114)">
+            <circle id="Ellipse_484-130" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -114)">
+            <circle id="Ellipse_484-131" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -114)">
+            <circle id="Ellipse_484-132" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -114)">
+            <circle id="Ellipse_484-133" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -114)">
+            <circle id="Ellipse_484-134" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -114)">
+            <circle id="Ellipse_484-135" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -114)">
+            <circle id="Ellipse_484-136" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -114)">
+            <circle id="Ellipse_484-137" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -114)">
+            <circle id="Ellipse_484-138" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 -114)">
+            <circle id="Ellipse_484-139" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 -114)">
+            <circle id="Ellipse_484-140" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 -114)">
+            <circle id="Ellipse_484-141" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 -114)">
+            <circle id="Ellipse_484-142" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -78)">
+            <circle id="Ellipse_484-143" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -78)">
+            <circle id="Ellipse_484-144" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -78)">
+            <circle id="Ellipse_484-145" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -78)">
+            <circle id="Ellipse_484-146" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -78)">
+            <circle id="Ellipse_484-147" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -78)">
+            <circle id="Ellipse_484-148" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -78)">
+            <circle id="Ellipse_484-149" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -78)">
+            <circle id="Ellipse_484-150" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -78)">
+            <circle id="Ellipse_484-151" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 -78)">
+            <circle id="Ellipse_484-152" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 -78)">
+            <circle id="Ellipse_484-153" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 -78)">
+            <circle id="Ellipse_484-154" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 -78)">
+            <circle id="Ellipse_484-155" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -42)">
+            <circle id="Ellipse_484-156" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -42)">
+            <circle id="Ellipse_484-157" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -42)">
+            <circle id="Ellipse_484-158" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -42)">
+            <circle id="Ellipse_484-159" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -42)">
+            <circle id="Ellipse_484-160" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -42)">
+            <circle id="Ellipse_484-161" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -42)">
+            <circle id="Ellipse_484-162" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -42)">
+            <circle id="Ellipse_484-163" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -42)">
+            <circle id="Ellipse_484-164" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 -42)">
+            <circle id="Ellipse_484-165" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 -42)">
+            <circle id="Ellipse_484-166" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 -42)">
+            <circle id="Ellipse_484-167" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 -42)">
+            <circle id="Ellipse_484-168" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 -6)">
+            <circle id="Ellipse_484-169" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 -6)">
+            <circle id="Ellipse_484-170" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 -6)">
+            <circle id="Ellipse_484-171" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 -6)">
+            <circle id="Ellipse_484-172" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 -6)">
+            <circle id="Ellipse_484-173" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 -6)">
+            <circle id="Ellipse_484-174" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 -6)">
+            <circle id="Ellipse_484-175" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 -6)">
+            <circle id="Ellipse_484-176" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 -6)">
+            <circle id="Ellipse_484-177" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 -6)">
+            <circle id="Ellipse_484-178" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 -6)">
+            <circle id="Ellipse_484-179" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 -6)">
+            <circle id="Ellipse_484-180" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 -6)">
+            <circle id="Ellipse_484-181" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 30)">
+            <circle id="Ellipse_484-182" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 30)">
+            <circle id="Ellipse_484-183" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 30)">
+            <circle id="Ellipse_484-184" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 30)">
+            <circle id="Ellipse_484-185" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 30)">
+            <circle id="Ellipse_484-186" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 30)">
+            <circle id="Ellipse_484-187" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 30)">
+            <circle id="Ellipse_484-188" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 30)">
+            <circle id="Ellipse_484-189" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 30)">
+            <circle id="Ellipse_484-190" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 30)">
+            <circle id="Ellipse_484-191" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 30)">
+            <circle id="Ellipse_484-192" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 30)">
+            <circle id="Ellipse_484-193" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 30)">
+            <circle id="Ellipse_484-194" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 66)">
+            <circle id="Ellipse_484-195" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 66)">
+            <circle id="Ellipse_484-196" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 66)">
+            <circle id="Ellipse_484-197" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 66)">
+            <circle id="Ellipse_484-198" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 66)">
+            <circle id="Ellipse_484-199" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 66)">
+            <circle id="Ellipse_484-200" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 66)">
+            <circle id="Ellipse_484-201" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 66)">
+            <circle id="Ellipse_484-202" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 66)">
+            <circle id="Ellipse_484-203" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 66)">
+            <circle id="Ellipse_484-204" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 66)">
+            <circle id="Ellipse_484-205" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 66)">
+            <circle id="Ellipse_484-206" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 66)">
+            <circle id="Ellipse_484-207" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 102)">
+            <circle id="Ellipse_484-208" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 102)">
+            <circle id="Ellipse_484-209" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 102)">
+            <circle id="Ellipse_484-210" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 102)">
+            <circle id="Ellipse_484-211" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 102)">
+            <circle id="Ellipse_484-212" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 102)">
+            <circle id="Ellipse_484-213" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 102)">
+            <circle id="Ellipse_484-214" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 102)">
+            <circle id="Ellipse_484-215" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 102)">
+            <circle id="Ellipse_484-216" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 102)">
+            <circle id="Ellipse_484-217" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 102)">
+            <circle id="Ellipse_484-218" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 102)">
+            <circle id="Ellipse_484-219" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 102)">
+            <circle id="Ellipse_484-220" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 138)">
+            <circle id="Ellipse_484-221" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 138)">
+            <circle id="Ellipse_484-222" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 138)">
+            <circle id="Ellipse_484-223" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 138)">
+            <circle id="Ellipse_484-224" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 138)">
+            <circle id="Ellipse_484-225" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 138)">
+            <circle id="Ellipse_484-226" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 138)">
+            <circle id="Ellipse_484-227" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 138)">
+            <circle id="Ellipse_484-228" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 138)">
+            <circle id="Ellipse_484-229" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 138)">
+            <circle id="Ellipse_484-230" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 138)">
+            <circle id="Ellipse_484-231" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 138)">
+            <circle id="Ellipse_484-232" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 138)">
+            <circle id="Ellipse_484-233" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 174)">
+            <circle id="Ellipse_484-234" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 174)">
+            <circle id="Ellipse_484-235" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 174)">
+            <circle id="Ellipse_484-236" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 174)">
+            <circle id="Ellipse_484-237" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 174)">
+            <circle id="Ellipse_484-238" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 174)">
+            <circle id="Ellipse_484-239" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 174)">
+            <circle id="Ellipse_484-240" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 174)">
+            <circle id="Ellipse_484-241" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 174)">
+            <circle id="Ellipse_484-242" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 174)">
+            <circle id="Ellipse_484-243" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 174)">
+            <circle id="Ellipse_484-244" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 174)">
+            <circle id="Ellipse_484-245" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 174)">
+            <circle id="Ellipse_484-246" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 210)">
+            <circle id="Ellipse_484-247" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 210)">
+            <circle id="Ellipse_484-248" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 210)">
+            <circle id="Ellipse_484-249" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 210)">
+            <circle id="Ellipse_484-250" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 210)">
+            <circle id="Ellipse_484-251" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 210)">
+            <circle id="Ellipse_484-252" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 210)">
+            <circle id="Ellipse_484-253" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 210)">
+            <circle id="Ellipse_484-254" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 210)">
+            <circle id="Ellipse_484-255" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 210)">
+            <circle id="Ellipse_484-256" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 210)">
+            <circle id="Ellipse_484-257" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 210)">
+            <circle id="Ellipse_484-258" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 210)">
+            <circle id="Ellipse_484-259" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-321 246)">
+            <circle id="Ellipse_484-260" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-285 246)">
+            <circle id="Ellipse_484-261" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-249 246)">
+            <circle id="Ellipse_484-262" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-213 246)">
+            <circle id="Ellipse_484-263" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-177 246)">
+            <circle id="Ellipse_484-264" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-141 246)">
+            <circle id="Ellipse_484-265" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-105 246)">
+            <circle id="Ellipse_484-266" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-69 246)">
+            <circle id="Ellipse_484-267" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(-33 246)">
+            <circle id="Ellipse_484-268" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(3 246)">
+            <circle id="Ellipse_484-269" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(39 246)">
+            <circle id="Ellipse_484-270" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(75 246)">
+            <circle id="Ellipse_484-271" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+          <g transform="translate(111 246)">
+            <circle id="Ellipse_484-272" data-name="Ellipse 484" cx="4" cy="4" r="4" transform="translate(325 226)" fill="#5b96ff"/>
+          </g>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, 2, -68.8)" filter="url(#Rectangle_20572)">
+          <g id="Rectangle_20572-2" data-name="Rectangle 20572" transform="translate(179 176.8)" fill="#fff" stroke="#d2d6ed" stroke-width="1">
+            <rect width="2823" height="1942" rx="17" stroke="none"/>
+            <rect x="0.5" y="0.5" width="2822" height="1941" rx="16.5" fill="none"/>
+          </g>
+        </g>
+        <path id="Rectangle_20573" data-name="Rectangle 20573" d="M0,0H2630a0,0,0,0,1,0,0V1655a26,26,0,0,1-26,26H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(336 325)" fill="#edf2fe" opacity="0.336"/>
+        <g id="Mask_Group_20" data-name="Mask Group 20" transform="translate(219.146 219.146)" clip-path="url(#clip-path-5)">
+          <g id="Group_22375" data-name="Group 22375" transform="translate(0 -1.889)">
+            <g id="Group_14357" data-name="Group 14357">
+              <g id="Group_14356" data-name="Group 14356" transform="translate(0 0)">
+                <g id="Group_14355" data-name="Group 14355">
+                  <g id="navigation-mini-with2toneicon" transform="translate(1.889 113.403)">
+                    <g id="Group_169" data-name="Group 169">
+                      <path id="Path_221" data-name="Path 221" d="M0,0H120.908V1686.458H0Z" fill="#0044c5"/>
+                      <g id="avatar-large-girl" transform="translate(30.278 1471.624)">
+                        <circle id="Ellipse_15" data-name="Ellipse 15" cx="32.116" cy="32.116" r="32.116" fill="url(#pattern)"/>
+                      </g>
+                      <g id="Group_4838" data-name="Group 4838" transform="translate(30.227 1373.386)">
+                        <g id="Group_4835" data-name="Group 4835" transform="translate(0 0)">
+                          <path id="Path_17399" data-name="Path 17399" d="M32.116,0A32.116,32.116,0,1,1,0,32.116,32.116,32.116,0,0,1,32.116,0Z" fill="#05f"/>
+                          <g id="apps_black_24dp" transform="translate(11.656 11.658)">
+                            <path id="Path_41507" data-name="Path 41507" d="M0,0H40.92V40.92H0Z" fill="none"/>
+                            <path id="Path_41508" data-name="Path 41508" d="M4,10.82h6.82V4H4ZM14.23,31.28h6.82V24.46H14.23ZM4,31.28h6.82V24.46H4ZM4,21.05h6.82V14.23H4Zm10.23,0h6.82V14.23H14.23ZM24.46,4v6.82h6.82V4ZM14.23,10.82h6.82V4H14.23ZM24.46,21.05h6.82V14.23H24.46Zm0,10.23h6.82V24.46H24.46Z" transform="translate(2.82 2.82)" fill="#fff"/>
+                          </g>
+                        </g>
+                      </g>
+                    </g>
+                    <rect id="Rectangle_17499" data-name="Rectangle 17499" width="67" height="64" rx="4" transform="translate(25.965 151.341)" fill="#0044c5"/>
+                    <rect id="Rectangle_20327" data-name="Rectangle 20327" width="68" height="62" rx="5" transform="translate(25.965 47.34)" fill="#2d75ff"/>
+                    <g id="Group_4811" data-name="Group 4811" transform="translate(37.784 -100.18)">
+                      <g id="bar_chart-24px_4_" data-name="bar_chart-24px (4)" transform="translate(0 703.4)">
+                        <path id="Path_17389" data-name="Path 17389" d="M0,0H43.451V43.451H0Z" fill="none"/>
+                        <path id="Path_17390" data-name="Path 17390" d="M5,12.368h5.263V29.559H5ZM14.824,5h4.912V29.559H14.824Zm9.824,14.034h4.912V29.559H24.648Z" transform="translate(4.446 4.446)" fill="#bcb4ff"/>
+                      </g>
+                      <g id="fact_check-24px" transform="translate(0 623.673)">
+                        <g id="Group_4814" data-name="Group 4814">
+                          <rect id="Rectangle_17484" data-name="Rectangle 17484" width="43" height="44" transform="translate(0.182 -0.273)" fill="none"/>
+                        </g>
+                        <g id="Group_4816" data-name="Group 4816" transform="translate(3.778 5.668)">
+                          <g id="Group_4815" data-name="Group 4815">
+                            <path id="Path_17393" data-name="Path 17393" d="M34.305,3H5.589A3.59,3.59,0,0,0,2,6.568V31.548a3.59,3.59,0,0,0,3.589,3.568H34.305a3.59,3.59,0,0,0,3.589-3.568V6.568A3.59,3.59,0,0,0,34.305,3Zm0,28.548H5.589V6.568H34.305Z" transform="translate(-2 -3)" fill="#bcb4ff" fill-rule="evenodd"/>
+                            <path id="Path_17394" data-name="Path 17394" d="M26,11.683,23.316,9l-5.989,5.989-2.664-2.683L12,14.97l5.328,5.365Z" transform="translate(3.982 1.391)" fill="#bcb4ff" fill-rule="evenodd"/>
+                            <rect id="Rectangle_17485" data-name="Rectangle 17485" width="9.446" height="3.778" transform="translate(5.697 7.084)" fill="#bcb4ff"/>
+                            <rect id="Rectangle_17486" data-name="Rectangle 17486" width="9.446" height="3.778" transform="translate(5.697 14.169)" fill="#bcb4ff"/>
+                            <rect id="Rectangle_17487" data-name="Rectangle 17487" width="9.446" height="3.778" transform="translate(5.697 21.253)" fill="#bcb4ff"/>
+                          </g>
+                        </g>
+                      </g>
+                      <g id="query_builder-24px_1_" data-name="query_builder-24px (1)" transform="translate(0 543.948)">
+                        <path id="Path_17385" data-name="Path 17385" d="M0,0H43.451V43.451H0Z" fill="none"/>
+                        <path id="Path_17386" data-name="Path 17386" d="M19.929,2A17.947,17.947,0,1,0,37.895,19.947,17.939,17.939,0,0,0,19.929,2Zm.018,32.305A14.358,14.358,0,1,1,34.305,19.947,14.354,14.354,0,0,1,19.947,34.305Zm.9-23.331H18.153V21.742L27.575,27.4l1.346-2.208L20.845,20.4Z" transform="translate(1.778 1.778)" fill="#bcb4ff"/>
+                      </g>
+                      <g id="receipt-24px_3_" data-name="receipt-24px (3)" transform="translate(0 464.497)">
+                        <path id="Path_17387" data-name="Path 17387" d="M0,0H43.451V43.451H0Z" fill="none"/>
+                        <path id="Path_17388" data-name="Path 17388" d="M32.44,4.692,29.763,2,27.087,4.692,24.411,2,21.734,4.692,19.058,2,16.382,4.692,13.705,2,11.029,4.692,8.353,2,5.676,4.692,3,2V37.895L5.676,35.2l2.676,2.692L11.029,35.2l2.676,2.692L16.382,35.2l2.676,2.692L21.734,35.2l2.676,2.692L27.087,35.2l2.676,2.692L32.44,35.2l2.676,2.692V2Zm-.892,27.98H6.568V7.223H31.548Zm-23.2-7.34H29.763v3.589H8.353Zm0-7.179H29.763v3.589H8.353Zm0-7.179H29.763v3.589H8.353Z" transform="translate(2.668 1.778)" fill="#bcb4ff"/>
+                      </g>
+                      <g id="assignment-24px_6_" data-name="assignment-24px (6)" transform="translate(0 385.046)">
+                        <path id="Path_17391" data-name="Path 17391" d="M0,0H43.451V43.451H0Z" fill="none"/>
+                        <path id="Path_17392" data-name="Path 17392" d="M10.137,26.126h12.49v3.589H10.137Zm0-7.179H27.979v3.589H10.137Zm0-7.179H27.979v3.589H10.137ZM31.548,4.589H24.09a5.321,5.321,0,0,0-10.063,0H6.568a3.108,3.108,0,0,0-.714.072A3.612,3.612,0,0,0,3.285,6.8,3.475,3.475,0,0,0,3,8.179V33.305a3.7,3.7,0,0,0,.285,1.4,3.805,3.805,0,0,0,.767,1.149,3.576,3.576,0,0,0,1.8.987,4.6,4.6,0,0,0,.714.054H31.548a3.59,3.59,0,0,0,3.568-3.589V8.179A3.59,3.59,0,0,0,31.548,4.589Zm-12.49-.449A1.346,1.346,0,1,1,17.72,5.487,1.352,1.352,0,0,1,19.058,4.141Zm12.49,29.164H6.568V8.179H31.548Z" transform="translate(2.668 0.889)" fill="#bcb4ff"/>
+                      </g>
+                      <g id="assignment_ind-24px_5_" data-name="assignment_ind-24px (5)" transform="translate(0 305.594)">
+                        <path id="Path_17383" data-name="Path 17383" d="M0,0H43.451V43.451H0Z" fill="none"/>
+                        <path id="Path_17384" data-name="Path 17384" d="M31.548,4.589H24.09a5.321,5.321,0,0,0-10.063,0H6.568A3.59,3.59,0,0,0,3,8.179V33.305a3.59,3.59,0,0,0,3.568,3.589H31.548a3.59,3.59,0,0,0,3.568-3.589V8.179A3.59,3.59,0,0,0,31.548,4.589Zm-12.49-.449a1.333,1.333,0,0,1,.981.449,1.338,1.338,0,1,1-1.963,0A1.333,1.333,0,0,1,19.058,4.141Zm12.49,29.164H6.568V8.179H31.548ZM19.058,9.974a5.384,5.384,0,1,0,5.353,5.384A5.384,5.384,0,0,0,19.058,9.974Zm0,7.179a1.795,1.795,0,1,1,1.784-1.795A1.795,1.795,0,0,1,19.058,17.153ZM8.353,28.764V31.51H29.763V28.764c0-4.487-7.083-6.425-10.705-6.425S8.353,24.26,8.353,28.764Zm4.122-.844a12.458,12.458,0,0,1,6.584-2.01,12.406,12.406,0,0,1,6.584,2.01Z" transform="translate(2.668 0.889)" fill="#bcb4ff"/>
+                      </g>
+                      <g id="next_week-24px_4_" data-name="next_week-24px (4)" transform="translate(0 232.143)">
+                        <path id="Path_17381" data-name="Path 17381" d="M0,0H43.451V43.451H0Z" fill="none"/>
+                        <path id="Path_17382" data-name="Path 17382" d="M18.153,30.741l7.179-7.159-7.179-7.159-1.795,1.79,5.384,5.369-5.384,5.369ZM34.305,10.159H27.126V6.58A3.611,3.611,0,0,0,23.537,3H16.358a3.6,3.6,0,0,0-3.589,3.58v3.58H5.589A3.6,3.6,0,0,0,2,13.739V33.426a3.6,3.6,0,0,0,3.589,3.58H34.305a3.6,3.6,0,0,0,3.589-3.58V13.739A3.6,3.6,0,0,0,34.305,10.159ZM16.358,6.58h7.179v3.58H16.358ZM34.305,33.426H5.589V13.739H34.305Z" transform="translate(1.778 2.668)" fill="#bcb4fb"/>
+                      </g>
+                      <g id="speed-24px_2_" data-name="speed-24px (2)" transform="translate(0 156.803)">
+                        <path id="Path_17378" data-name="Path 17378" d="M0,0H43.451V43.451H0Z" fill="none"/>
+                        <g id="dashboard-24px">
+                          <path id="Path_17407" data-name="Path 17407" d="M0,0H45.341V45.341H0Z" fill="none"/>
+                          <path id="Path_17408" data-name="Path 17408" d="M33.227,6.778v3.778H25.67V6.778h7.557m-18.892,0V18.114H6.778V6.778h7.557M33.227,21.892V33.227H25.67V21.892h7.557M14.335,29.449v3.778H6.778V29.449h7.557M37.005,3H21.892V14.335H37.005ZM18.114,3H3V21.892H18.114ZM37.005,18.114H21.892V37.005H37.005ZM18.114,25.67H3V37.005H18.114Z" transform="translate(2.668 2.668)" fill="#fff"/>
+                        </g>
+                      </g>
+                    </g>
+                  </g>
+                  <g id="Group_4578" data-name="Group 4578">
+                    <g transform="matrix(1, 0, 0, 1, -217.15, -286.05)" filter="url(#Path_41504)">
+                      <g id="Path_41504-2" data-name="Path 41504" transform="translate(217.15 286.05)" fill="#fff">
+                        <path d="M 2746.3798828125 120.4080200195312 L 0.5001526474952698 120.4080200195312 L 0.5001526474952698 0.5000214576721191 L 2746.3798828125 0.5000214576721191 L 2746.3798828125 120.4080200195312 Z" stroke="none"/>
+                        <path d="M 0.999755859375 1.000022888183594 L 0.999755859375 119.9080200195312 L 2745.87939453125 119.9080200195312 L 2745.87939453125 1.000022888183594 L 0.999755859375 1.000022888183594 M -0.000244140625 2.288818359375e-05 L 2746.87939453125 2.288818359375e-05 L 2746.87939453125 120.9080200195312 L -0.000244140625 120.9080200195312 L -0.000244140625 2.288818359375e-05 Z" stroke="none" fill="#e3e9f0"/>
+                      </g>
+                    </g>
+                    <path id="Path_3226" data-name="Path 3226" d="M0,0H462.411" transform="translate(2132.816 100.47)" fill="none"/>
+                    <rect id="Rectangle_17498" data-name="Rectangle 17498" width="121" height="138" transform="translate(1.854 1.744)" fill="#0044c5"/>
+                    <path id="Path_17397" data-name="Path 17397" d="M0,0H41.562V41.562H0Z" transform="translate(39.673 39.673)" fill="none"/>
+                    <g id="Group_13910" data-name="Group 13910" transform="translate(47.23 51.008)">
+                      <path id="Path_17398" data-name="Path 17398" d="M3,26.781H34.172V23.318H3Zm0-8.659H34.172V14.659H3ZM3,6V9.464H34.172V6Z" transform="translate(-3 -6)" fill="#edf2fe"/>
+                    </g>
+                    <g id="logo_1_" data-name="logo (1)" transform="translate(171.916 32.969)">
+                      <path id="Path_47643" data-name="Path 47643" d="M22.117,5.349l-2.932.507a29.882,29.882,0,0,0-10.247,4.91A25.7,25.7,0,0,0,.693,23.806,32.691,32.691,0,0,0,.547,36.473,23.382,23.382,0,0,0,16.44,53.813a22.307,22.307,0,0,0,7.92,1.3c6.773.258,10.987-.578,16.327-3.24,2.438-1.216,2.52-1.3,2.32-2.285a3.844,3.844,0,0,0-.874-1.683c-.659-.65-.7-.643-3.355.587a26.924,26.924,0,0,1-12.52,2.7C19.191,51.224,14.34,49.5,10.246,45.5,6.3,41.65,4.4,36.589,4.427,30A19.573,19.573,0,0,1,8,17.942a17.494,17.494,0,0,1,7.734-6.657,21.021,21.021,0,0,1,18-.028c7.752,3.581,11.081,14.607,6.87,22.753-1.95,3.771-5.7,5.33-8.036,3.343-.842-.716-.965-1.058-.948-2.639a61.98,61.98,0,0,1,1.685-8.393c1.159-4.576,1.555-6.685,1.3-6.932a8.232,8.232,0,0,0-2.375-.824c-8.814-2.047-17.521,2.875-19.775,11.178-.564,2.078-.317,6.882.426,8.282a8.362,8.362,0,0,0,3.986,3.589,13.046,13.046,0,0,0,6.968-.531A13.878,13.878,0,0,0,26.508,39.1a5.689,5.689,0,0,1,1.552-1.24c.051.082.4.748.783,1.479.968,1.866,2.507,2.585,5.533,2.585,7.07,0,12.241-6.616,12.269-15.7.018-6.124-1.769-10.537-5.915-14.605a20.734,20.734,0,0,0-9.989-5.565A33.2,33.2,0,0,0,22.117,5.349Zm7.534,17.013c.232.2-2.745,10.569-3.442,11.992-1.854,3.788-6.922,4.84-8.71,1.809a5.782,5.782,0,0,1-.657-3.235,11.014,11.014,0,0,1,8.816-10.737C26.911,21.95,29.281,22.05,29.651,22.363Z" transform="translate(0 -1.865)" fill="#2999ff" fill-rule="evenodd"/>
+                      <path id="Path_47644" data-name="Path 47644" d="M212.948,45.965h5.864V0h-5.864ZM110.732.975c-1.67,1.087-2.114,2.069-2,4.433.059,1.267,2.252,3.1,3.7,3.1A4.168,4.168,0,0,0,116.8,4.406,4.272,4.272,0,0,0,112.734.345,4.36,4.36,0,0,0,110.732.975Zm119.36,0c-1.67,1.087-2.114,2.069-2,4.433.059,1.267,2.251,3.1,3.7,3.1a4.168,4.168,0,0,0,4.365-4.106A4.272,4.272,0,0,0,232.094.345,4.358,4.358,0,0,0,230.092.975Zm22.832.176c-4.662,1.644-6.858,5.166-6.858,11v2.832h-5.175v1.491c0,1.737.448,2.218,2.3,2.463.728.1,1.674.245,2.1.331l.777.155V45.965h5.864v-26.9H260.9V14.981h-9.417l.208-2.9c.359-5.027,2.232-6.969,6.719-6.969,2.429,0,2.835-.381,2.835-2.659,0-1.23-.089-1.36-1.078-1.555A20.969,20.969,0,0,0,252.924,1.151ZM89.228,13.992c-7.966.974-11.957,9.367-6.92,14.553,1.4,1.438,2.67,2.07,6.968,3.46,4.548,1.471,5.926,2.187,6.739,3.5a3.488,3.488,0,0,1,.037,3.984c-.956,1.76-3.065,2.727-5.95,2.727-2.063,0-2.663-.164-5.034-1.376-3.182-1.627-3.865-1.57-5.068.421l-.86,1.424,1.1.826A17.268,17.268,0,0,0,96.625,45.2c5.732-2.659,7.495-10.734,3.135-14.369-1.413-1.179-3.492-2.105-8.069-3.6-2.723-.887-3.732-1.4-4.788-2.436-1.2-1.174-1.317-1.444-1.135-2.55.6-3.621,5.424-5.028,10.3-3,3.374,1.4,3.521,1.4,4.548.075a5.048,5.048,0,0,0,.9-1.5c0-.6-1.509-1.75-3.447-2.635-1.686-.77-2.506-.958-5.867-1.35A17.939,17.939,0,0,0,89.228,13.992Zm48.635-.008a10.927,10.927,0,0,0-5.54,2.986L130.9,18.336l-.238-1.422c-.412-2.451-.6-2.614-3.1-2.614h-2.23V45.965h5.864V22.539l1.619-1.575c3.571-3.475,8.734-3.189,10.467.579.611,1.328.663,2.336.67,12.931l.008,11.491h6.209V34.888c0-11.873.087-12.563,1.827-14.4,3.222-3.405,9.339-2.147,10.554,2.172.238.848.379,5.406.381,12.326l0,10.98h5.864V34.4c0-10.968-.039-11.687-.751-13.829a9.393,9.393,0,0,0-5.746-6.077,15.363,15.363,0,0,0-8.266-.042c-2.041.669-4.937,3.065-5.592,4.626L148,20.119l-.662-1.462A8.263,8.263,0,0,0,137.863,13.983Zm52.317.163a14.007,14.007,0,0,0-5.842,3.409l-1.323,1.18-.246-1.621c-.4-2.649-.585-2.813-3.123-2.813h-2.23V56.86h5.865V43.206l1.14.858c6.405,4.822,16.014,2.286,19.456-5.135a18.7,18.7,0,0,0,1.818-9.137c0-6.24-1.48-10.556-4.549-13.28A12.3,12.3,0,0,0,190.18,14.146ZM109.8,45.965h5.864V14.3H109.8Zm119.36,0h5.864V14.3h-5.864Zm32.772-31.508c0,.139,11.722,26.622,12.743,28.79.361.768.1,1.512-2.548,7.123-1.623,3.446-2.951,6.316-2.951,6.378a15.052,15.052,0,0,0,2.587.112c2.017,0,2.722-.133,3.2-.6.572-.565,2.18-4.151,14-31.231l4.606-10.555-2.622-.1c-2.383-.093-2.684-.03-3.311.689-.379.435-2.7,5.637-5.157,11.56L278.01,37.387l-.572-1.584c-1.231-3.4-8.687-20.344-9.2-20.906-.435-.477-1.118-.6-3.423-.6A13.4,13.4,0,0,0,261.934,14.457Zm-68.311,4.3c3.242.737,5.114,3.275,5.88,7.974.714,4.378-.121,9.108-2.115,11.968-2.678,3.843-9.272,4.3-12.814.887l-1.294-1.246v-15.2l1.515-1.5C187.617,18.855,190.263,17.99,193.623,18.754Z" transform="translate(-28.005)" fill="#2b2e32" fill-rule="evenodd"/>
+                    </g>
+                  </g>
+                </g>
+                <g id="Group_14139" data-name="Group 14139" transform="translate(45.341 30.227)">
+                  <g id="Component_179_4" data-name="Component 179 – 4" transform="translate(2516.785 -0.484)">
+                    <rect id="Rectangle_20328" data-name="Rectangle 20328" width="64" height="64" rx="4" fill="#fff"/>
+                    <g id="help_black_24dp_1_" data-name="help_black_24dp (1)" transform="translate(11.335 11.335)">
+                      <path id="Path_41515" data-name="Path 41515" d="M0,0H41.562V41.562H0Z" fill="none"/>
+                      <path id="Path_41516" data-name="Path 41516" d="M19,2a17,17,0,1,0,17,17A17.009,17.009,0,0,0,19,2Zm1.7,28.9H17.3V27.5h3.4Zm3.52-13.177-1.53,1.564A5.788,5.788,0,0,0,20.7,24.1H17.3v-.85a6.844,6.844,0,0,1,1.989-4.812L21.4,16.3a3.325,3.325,0,0,0,1-2.4,3.4,3.4,0,0,0-6.8,0H12.2a6.8,6.8,0,0,1,13.6,0A5.41,5.41,0,0,1,24.223,17.727Z" transform="translate(1.778 1.778)" fill="#001a43"/>
+                    </g>
+                  </g>
+                  <g id="Component_178_4" data-name="Component 178 – 4" transform="translate(2436.785 -0.484)">
+                    <rect id="Rectangle_20328-2" data-name="Rectangle 20328" width="64" height="64" rx="4" fill="#fff"/>
+                    <g id="settings_black_24dp_8_" data-name="settings_black_24dp (8)" transform="translate(11.335 11.335)">
+                      <path id="Path_41513" data-name="Path 41513" d="M0,0H41.562V41.562H0Z" fill="none"/>
+                      <path id="Path_41514" data-name="Path 41514" d="M30.458,20.238a12.011,12.011,0,0,0,.1-1.591,9.808,9.808,0,0,0-.118-1.591l3.424-2.674a.832.832,0,0,0,.2-1.032L30.829,7.731a.823.823,0,0,0-1-.372L25.8,8.983A11.907,11.907,0,0,0,23.07,7.393l-.607-4.3a.817.817,0,0,0-.81-.694H15.175a.8.8,0,0,0-.793.694l-.607,4.3a12.17,12.17,0,0,0-2.733,1.591L7.011,7.359a.8.8,0,0,0-1,.372L2.794,13.35A.771.771,0,0,0,3,14.382L6.42,17.056a9.446,9.446,0,0,0-.034,3.182L2.962,22.912a.832.832,0,0,0-.2,1.032L6,29.563a.823.823,0,0,0,1,.372l4.032-1.625A11.908,11.908,0,0,0,13.758,29.9l.607,4.3a.83.83,0,0,0,.81.694h6.478a.788.788,0,0,0,.793-.694l.607-4.3a11.561,11.561,0,0,0,2.733-1.591l4.032,1.625a.8.8,0,0,0,1-.372l3.239-5.619a.785.785,0,0,0-.2-1.032Zm-12.044,4.5a6.093,6.093,0,1,1,6.073-6.093A6.1,6.1,0,0,1,18.414,24.74Z" transform="translate(2.367 2.134)" fill="#001a43"/>
+                    </g>
+                  </g>
+                  <line id="Line_576" data-name="Line 576" y2="34" transform="translate(2420.785 15.516)" fill="none" stroke="#cfd8e1" stroke-width="1"/>
+                  <g id="Component_177_7" data-name="Component 177 – 7" transform="translate(2247.785 -0.484)">
+                    <rect id="Rectangle_20328-3" data-name="Rectangle 20328" width="157" height="64" rx="4" fill="#fff"/>
+                    <g id="language_black_24dp_4_" data-name="language_black_24dp (4)" transform="translate(11.335 11.335)">
+                      <path id="Path_41511" data-name="Path 41511" d="M0,0H41.562V41.562H0Z" fill="none"/>
+                      <path id="Path_41512" data-name="Path 41512" d="M18.986,2a17,17,0,1,0,17.02,17A16.994,16.994,0,0,0,18.986,2ZM30.769,12.2H25.753a26.608,26.608,0,0,0-2.346-6.053A13.653,13.653,0,0,1,30.769,12.2ZM19,5.469A23.951,23.951,0,0,1,22.25,12.2h-6.5A23.951,23.951,0,0,1,19,5.469ZM5.843,22.4a13.3,13.3,0,0,1,0-6.8H11.59a28.08,28.08,0,0,0-.238,3.4,28.08,28.08,0,0,0,.238,3.4Zm1.394,3.4h5.016A26.608,26.608,0,0,0,14.6,31.857,13.58,13.58,0,0,1,7.237,25.8Zm5.016-13.6H7.237A13.58,13.58,0,0,1,14.6,6.149,26.608,26.608,0,0,0,12.253,12.2ZM19,32.537A23.951,23.951,0,0,1,15.755,25.8h6.5A23.951,23.951,0,0,1,19,32.537ZM22.981,22.4H15.024a25.016,25.016,0,0,1-.272-3.4,24.8,24.8,0,0,1,.272-3.4h7.957a24.8,24.8,0,0,1,.272,3.4A25.016,25.016,0,0,1,22.981,22.4Zm.425,9.453A26.608,26.608,0,0,0,25.753,25.8h5.016A13.653,13.653,0,0,1,23.406,31.857ZM26.416,22.4a28.081,28.081,0,0,0,.238-3.4,28.081,28.081,0,0,0-.238-3.4h5.747a13.3,13.3,0,0,1,0,6.8Z" transform="translate(1.778 1.778)" fill="#001a43"/>
+                    </g>
+                    <text id="US-En" transform="translate(64 41)" fill="#0f2e4e" font-size="25" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">US-En</tspan></text>
+                  </g>
+                  <g id="Component_176_10" data-name="Component 176 – 10" transform="translate(2167.785 -0.484)">
+                    <rect id="Rectangle_20328-4" data-name="Rectangle 20328" width="64" height="64" rx="4" fill="#fff"/>
+                    <g id="notifications_active_black_24dp_6_" data-name="notifications_active_black_24dp (6)" transform="translate(11.335 11.335)">
+                      <path id="Path_41517" data-name="Path 41517" d="M0,0H41.562V41.562H0Z" fill="none"/>
+                      <path id="Path_41518" data-name="Path 41518" d="M11.463,5.179,9.033,2.754a17.662,17.662,0,0,0-7,13.309h3.4A14.31,14.31,0,0,1,11.463,5.179ZM32.523,16.063h3.4a17.769,17.769,0,0,0-7-13.309L26.506,5.179A14.394,14.394,0,0,1,32.523,16.063Zm-3.348.848c0-5.2-2.788-9.562-7.649-10.715V5.043a2.55,2.55,0,0,0-5.1,0V6.2c-4.878,1.153-7.649,5.493-7.649,10.715v8.477l-3.4,3.391v1.7h27.2v-1.7l-3.4-3.391Zm-10.2,18.65a2.985,2.985,0,0,0,.68-.068,3.447,3.447,0,0,0,2.448-2,3.4,3.4,0,0,0,.255-1.322h-6.8a3.42,3.42,0,0,0,3.416,3.391Z" transform="translate(1.805 2.223)"/>
+                    </g>
+                  </g>
+                  <g id="Component_176_11" data-name="Component 176 – 11" transform="translate(2071.495)">
+                    <rect id="Rectangle_20328-5" data-name="Rectangle 20328" width="64.232" height="64.232" rx="4" fill="#fff"/>
+                    <g id="inbox_black_24dp" transform="translate(10.391 9.446)">
+                      <path id="Path_41775" data-name="Path 41775" d="M0,0H45.341V45.341H0Z" fill="none"/>
+                      <path id="Path_41776" data-name="Path 41776" d="M33.227,3H6.759A3.733,3.733,0,0,0,3.019,6.778L3,33.227a3.761,3.761,0,0,0,3.759,3.778H33.227a3.789,3.789,0,0,0,3.778-3.778V6.778A3.777,3.777,0,0,0,33.227,3Zm0,22.67H25.67a5.668,5.668,0,0,1-11.335,0H6.759V6.778H33.227Z" transform="translate(2.668 2.668)" fill="#0044c5"/>
+                    </g>
+                    <g id="Group_14486" data-name="Group 14486" transform="translate(33.061 7.557)">
+                      <g id="Rectangle_20455" data-name="Rectangle 20455" transform="translate(-0.042 -0.041)" fill="red" stroke="#fff" stroke-width="1">
+                        <rect width="47" height="32" rx="9" stroke="none"/>
+                        <rect x="-0.5" y="-0.5" width="48" height="33" rx="9.5" fill="none"/>
+                      </g>
+                      <text id="_35" data-name="35" transform="translate(8.958 22.959)" fill="#fff" font-size="22" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">35</tspan></text>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Breadcrumb" transform="translate(200.254 171.916)">
+              <text id="Dashboard" transform="translate(-0.399 24.828)" fill="#776de0" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Dashboard</tspan></text>
+              <text id="My_Dashboard" data-name="My Dashboard" transform="translate(196.601 24.828)" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">My Dashboard</tspan></text>
+              <g id="keyboard_arrow_down-24px_1_" data-name="keyboard_arrow_down-24px (1)" transform="translate(151.135 32.116) rotate(-90)">
+                <path id="Path_17104" data-name="Path 17104" d="M0,0H30.227V30.227H0Z" fill="none"/>
+                <path id="Path_17105" data-name="Path 17105" d="M2.664,0l8.671,8.652L20.007,0,22.67,2.664,11.335,14,0,2.664Z" transform="translate(3.778 8.403)"/>
+              </g>
+            </g>
+            <g id="Component_53_37" data-name="Component 53 – 37" transform="translate(199.854 1050.744)">
+              <g transform="matrix(1, 0, 0, 1, -417, -1336.8)" filter="url(#Rectangle_17681)">
+                <g id="Rectangle_17681-12" data-name="Rectangle 17681" transform="translate(417 1336.8)" fill="#fff" stroke="#cfd8e1" stroke-width="1">
+                  <rect width="1753" height="765" rx="4" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="1752" height="764" rx="3.5" fill="none"/>
+                </g>
+              </g>
+              <g id="Chart" transform="translate(44.785 186.085)">
+                <g id="Chart-grid" transform="translate(0 0)">
+                  <g id="y-axis">
+                    <text id="_0" data-name="0" transform="translate(0 458.443)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="47.193" y="12">0</tspan></text>
+                    <text id="_250" data-name="250" transform="translate(0 298.714)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="32.793" y="12">250</tspan></text>
+                    <text id="_500" data-name="500" transform="translate(0 138.985)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="32.793" y="12">500</tspan></text>
+                    <text id="_750" data-name="750" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="32.793" y="12">750</tspan></text>
+                  </g>
+                  <g id="x-axis" transform="translate(241.706 506.154)">
+                    <text id="M" transform="translate(0 0)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="75.517" y="12">M</tspan></text>
+                    <text id="T" transform="translate(612.897 0)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="76.837" y="12">T</tspan></text>
+                    <text id="S" transform="translate(1033.005 0)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="76.663" y="12">S</tspan></text>
+                    <text id="S-2" data-name="S" transform="translate(1243.059 0)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="76.663" y="12">S</tspan></text>
+                    <text id="T-2" data-name="T" transform="translate(210.054 0)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="76.837" y="12">T</tspan></text>
+                    <text id="F" transform="translate(822.951 0)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="77.137" y="12">F</tspan></text>
+                    <text id="W" transform="translate(420.108 0)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="65.246" y="12">W</tspan></text>
+                  </g>
+                </g>
+                <path id="Average-line" d="M.5.5H1514.076" transform="translate(105.929 187.233)" fill="none" stroke="#7c828a" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="1 3"/>
+                <g id="column-charts" transform="translate(128.704 22.818)">
+                  <g id="Charts_Columns_Bars_Single-column-size01" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(900.724 213.663)">
+                    <rect id="Rectangle_Copy_21" data-name="Rectangle Copy 21" width="83.4" height="244.78" rx="4" fill="rgba(115,136,169,0.35)"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-2" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(1200.966 213.663)">
+                    <rect id="Rectangle_Copy_21-2" data-name="Rectangle Copy 21" width="83.4" height="244.78" rx="4" fill="rgba(115,136,169,0.35)"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-3" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(750.603 269.672)">
+                    <rect id="Rectangle_Copy_21-3" data-name="Rectangle Copy 21" width="83.4" height="188.771" rx="4" fill="rgba(115,136,169,0.35)"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-4" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(600.483 82.976)">
+                    <rect id="Rectangle_Copy_21-4" data-name="Rectangle Copy 21" width="83.4" height="375.467" rx="4" fill="#147ad6"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-5" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(1050.845 82.976)">
+                    <rect id="Rectangle_Copy_21-5" data-name="Rectangle Copy 21" width="83.4" height="375.467" rx="4" fill="#147ad6"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-6" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(450.362 228.184)">
+                    <rect id="Rectangle_Copy_21-6" data-name="Rectangle Copy 21" width="83.4" height="230.259" rx="4" fill="rgba(115,136,169,0.35)"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-7" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(300.241)">
+                    <rect id="Rectangle_Copy_21-7" data-name="Rectangle Copy 21" width="83.4" height="458.443" rx="4" fill="#147ad6"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-8" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(1351.086)">
+                    <rect id="Rectangle_Copy_21-8" data-name="Rectangle Copy 21" width="83.4" height="458.443" rx="4" fill="#147ad6"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-9" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(150.121 136.911)">
+                    <rect id="Rectangle_Copy_21-9" data-name="Rectangle Copy 21" width="83.4" height="321.532" rx="4" fill="#147ad6"/>
+                  </g>
+                  <g id="Charts_Columns_Bars_Single-column-size01-10" data-name="Charts/Columns&amp;Bars/Single-column-size01" transform="translate(0 296.64)">
+                    <rect id="Rectangle_Copy_21-10" data-name="Rectangle Copy 21" width="83.4" height="161.803" rx="4" fill="rgba(115,136,169,0.35)"/>
+                  </g>
+                </g>
+              </g>
+              <text id="Spend_Report_Category_-_YTD" data-name="Spend Report (Category) - YTD" transform="translate(45 61)" fill="#343a40" font-size="26" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Spend Report (Category) - YTD</tspan></text>
+            </g>
+            <g id="Component_53_38" data-name="Component 53 – 38" transform="translate(1091.854 1845.744)">
+              <g transform="matrix(1, 0, 0, 1, -1309, -2131.8)" filter="url(#Rectangle_17681-2)">
+                <rect id="Rectangle_17681-13" data-name="Rectangle 17681" width="861" height="635" rx="4" transform="translate(1309 2131.8)" fill="#fff"/>
+              </g>
+              <text id="Spend_By_Supplier_-_Past_7_days" data-name="Spend By Supplier - Past 7 days" transform="translate(40 63)" fill="#343a40" font-size="26" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Spend By Supplier - Past 7 days</tspan></text>
+            </g>
+            <g id="Component_53_39" data-name="Component 53 – 39" transform="translate(196.529 462.851)">
+              <g transform="matrix(1, 0, 0, 1, -413.67, -748.9)" filter="url(#Rectangle_17681-3)">
+                <g id="Rectangle_17681-14" data-name="Rectangle 17681" transform="translate(417 748.8)" fill="#fff" stroke="#cfd8e1" stroke-width="1">
+                  <rect width="862" height="557" rx="4" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="861" height="556" rx="3.5" fill="none"/>
+                </g>
+              </g>
+              <text id="Headcount_Location_" data-name="Headcount (Location)" transform="translate(36.325 58.893)" fill="#343a40" font-size="26" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Headcount (Location)</tspan></text>
+              <g id="more_horiz-24px_4_" data-name="more_horiz-24px (4)" transform="translate(787.325 20.893)">
+                <path id="Path_17417" data-name="Path 17417" d="M0,0H45.341V45.341H0Z" fill="none"/>
+                <path id="Path_17418" data-name="Path 17418" d="M7.778,10a3.778,3.778,0,1,0,3.778,3.778A3.789,3.789,0,0,0,7.778,10Zm22.67,0a3.778,3.778,0,1,0,3.778,3.778A3.789,3.789,0,0,0,30.449,10ZM19.114,10a3.778,3.778,0,1,0,3.778,3.778A3.789,3.789,0,0,0,19.114,10Z" transform="translate(3.557 8.892)" fill="#adb5bd"/>
+              </g>
+              <g id="Chart-2" data-name="Chart" transform="translate(0 102.961)">
+                <g id="y-axis-2" data-name="y-axis" transform="translate(0 0)">
+                  <text id="_0K" data-name="$0K" transform="translate(0 340.054)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="77.179" y="12">$0K</tspan></text>
+                  <text id="_25K" data-name="$25K" transform="translate(0 226.703)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="69.979" y="12">$25K</tspan></text>
+                  <text id="_50K" data-name="$50K" transform="translate(0 113.351)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="69.979" y="12">$50K</tspan></text>
+                  <text id="_75K_" data-name="$75K " fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="69.979" y="12">$75K</tspan></text>
+                </g>
+                <g id="x-axis-2" data-name="x-axis" transform="translate(151.587 392.951)">
+                  <text id="Jun" transform="translate(577.197)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="31.446" y="12">Jun</tspan></text>
+                  <text id="May" transform="translate(460.592)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="29.28" y="12">May</tspan></text>
+                  <text id="Apr" transform="translate(343.986)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="30.222" y="12">Apr</tspan></text>
+                  <text id="Mar" transform="translate(233.211)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="25.705" y="12">Mar</tspan></text>
+                  <text id="Feb" transform="translate(119.521)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="30.564" y="12">Feb</tspan></text>
+                  <text id="Jan" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="31.704" y="12">Jan</tspan></text>
+                </g>
+                <g id="Columns" transform="translate(169.078 20.781)">
+                  <g id="category-02" transform="translate(29.151 147.357)">
+                    <g id="Charts_Columns_Bars_Single-column-size02" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(577.197 58.565)">
+                      <rect id="Rectangle_Copy_35" data-name="Rectangle Copy 35" width="23.321" height="136.022" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-2" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(460.592)">
+                      <rect id="Rectangle_Copy_35-2" data-name="Rectangle Copy 35" width="23.321" height="194.586" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-3" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(343.986 102.016)">
+                      <rect id="Rectangle_Copy_35-3" data-name="Rectangle Copy 35" width="23.321" height="92.57" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-4" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(230.296 79.346)">
+                      <rect id="Rectangle_Copy_35-4" data-name="Rectangle Copy 35" width="23.321" height="115.24" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-5" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(119.521 9.446)">
+                      <rect id="Rectangle_Copy_35-5" data-name="Rectangle Copy 35" width="23.321" height="185.14" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-6" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(0 102.016)">
+                      <rect id="Rectangle_Copy_35-6" data-name="Rectangle Copy 35" width="23.321" height="92.57" rx="6" fill="#ec6666"/>
+                    </g>
+                  </g>
+                  <g id="category-01">
+                    <g id="Charts_Columns_Bars_Single-column-size02-7" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(577.197 47.23)">
+                      <rect id="Rectangle_Copy_35-7" data-name="Rectangle Copy 35" width="23.321" height="294.713" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-8" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(460.592 88.792)">
+                      <rect id="Rectangle_Copy_35-8" data-name="Rectangle Copy 35" width="23.321" height="253.151" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-9" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(343.986 190.808)">
+                      <rect id="Rectangle_Copy_35-9" data-name="Rectangle Copy 35" width="23.321" height="151.135" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-10" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(230.296)">
+                      <rect id="Rectangle_Copy_35-10" data-name="Rectangle Copy 35" width="23.321" height="341.943" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-11" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(119.521 117.13)">
+                      <rect id="Rectangle_Copy_35-11" data-name="Rectangle Copy 35" width="23.321" height="224.813" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-12" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(0 170.027)">
+                      <rect id="Rectangle_Copy_35-12" data-name="Rectangle Copy 35" width="23.321" height="171.916" rx="11.661" fill="#147ad6"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Component_53_40" data-name="Component 53 – 40" transform="translate(1091.854 464.744)">
+              <g transform="matrix(1, 0, 0, 1, -1309, -750.8)" filter="url(#Rectangle_17681-4)">
+                <g id="Rectangle_17681-15" data-name="Rectangle 17681" transform="translate(1309 750.8)" fill="#fff" stroke="#cfd8e1" stroke-width="1">
+                  <rect width="861" height="557" rx="4" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="860" height="556" rx="3.5" fill="none"/>
+                </g>
+              </g>
+              <text id="Headcount_Category_" data-name="Headcount (Category)" transform="translate(36 57)" fill="#343a40" font-size="26" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Headcount (Category)</tspan></text>
+              <g id="Charts_Pie_3-categories" data-name="Charts/Pie/3-categories" transform="translate(262.597 121.853)">
+                <g id="Pie_chart" data-name="Pie chart">
+                  <path id="Pie_2" d="M0,81.1l145.467,87.041V0A170.431,170.431,0,0,0,0,81.1Z" transform="translate(22.67 3.778)" fill="#0089ff"/>
+                  <path id="Pie_1" d="M24.381,0A167.46,167.46,0,0,0,45.233,201.47a169.353,169.353,0,0,0,200.362,35.17L168.805,86.992,24.381,0" transform="translate(0 85.013)" fill="#e1b700"/>
+                  <path id="Pie_0" d="M76.479,317.384a167.8,167.8,0,0,0,86.977-188.778A168.073,168.073,0,0,0,0,0V167.88l76.479,149.5" transform="translate(177.584)" fill="#5bb7ff"/>
+                </g>
+              </g>
+            </g>
+            <g id="Component_53_41" data-name="Component 53 – 41" transform="translate(199.854 1845.744)">
+              <g transform="matrix(1, 0, 0, 1, -417, -2131.8)" filter="url(#Rectangle_17681-5)">
+                <rect id="Rectangle_17681-16" data-name="Rectangle 17681" width="861" height="635" rx="4" transform="translate(417 2131.8)" fill="#fff"/>
+              </g>
+              <g id="Chart-3" data-name="Chart" transform="translate(9.446 163.415)">
+                <g id="y-axis-3" data-name="y-axis" transform="translate(0 0)">
+                  <text id="_0K-2" data-name="$0K" transform="translate(0 340.054)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="77.179" y="12">$0K</tspan></text>
+                  <text id="_25K-2" data-name="$25K" transform="translate(0 226.703)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="69.979" y="12">$25K</tspan></text>
+                  <text id="_50K-2" data-name="$50K" transform="translate(0 113.351)" fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="69.979" y="12">$50K</tspan></text>
+                  <text id="_75K_2" data-name="$75K " fill="#7c828a" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="69.979" y="12">$75K</tspan></text>
+                </g>
+                <g id="x-axis-3" data-name="x-axis" transform="translate(151.587 392.951)">
+                  <text id="Jun-2" data-name="Jun" transform="translate(577.197)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="31.446" y="12">Jun</tspan></text>
+                  <text id="May-2" data-name="May" transform="translate(460.592)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="29.28" y="12">May</tspan></text>
+                  <text id="Apr-2" data-name="Apr" transform="translate(343.986)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="30.222" y="12">Apr</tspan></text>
+                  <text id="Mar-2" data-name="Mar" transform="translate(233.211)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="25.705" y="12">Mar</tspan></text>
+                  <text id="Feb-2" data-name="Feb" transform="translate(119.521)" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="30.564" y="12">Feb</tspan></text>
+                  <text id="Jan-2" data-name="Jan" font-size="12" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="31.704" y="12">Jan</tspan></text>
+                </g>
+                <g id="Columns-2" data-name="Columns" transform="translate(169.078 20.781)">
+                  <g id="category-02-2" data-name="category-02" transform="translate(29.151 147.357)">
+                    <g id="Charts_Columns_Bars_Single-column-size02-13" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(577.197 58.565)">
+                      <rect id="Rectangle_Copy_35-13" data-name="Rectangle Copy 35" width="23.321" height="136.022" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-14" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(460.592)">
+                      <rect id="Rectangle_Copy_35-14" data-name="Rectangle Copy 35" width="23.321" height="194.586" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-15" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(343.986 102.016)">
+                      <rect id="Rectangle_Copy_35-15" data-name="Rectangle Copy 35" width="23.321" height="92.57" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-16" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(230.296 79.346)">
+                      <rect id="Rectangle_Copy_35-16" data-name="Rectangle Copy 35" width="23.321" height="115.24" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-17" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(119.521 9.446)">
+                      <rect id="Rectangle_Copy_35-17" data-name="Rectangle Copy 35" width="23.321" height="185.14" rx="6" fill="#ec6666"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-18" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(0 102.016)">
+                      <rect id="Rectangle_Copy_35-18" data-name="Rectangle Copy 35" width="23.321" height="92.57" rx="6" fill="#ec6666"/>
+                    </g>
+                  </g>
+                  <g id="category-01-2" data-name="category-01">
+                    <g id="Charts_Columns_Bars_Single-column-size02-19" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(577.197 47.23)">
+                      <rect id="Rectangle_Copy_35-19" data-name="Rectangle Copy 35" width="23.321" height="294.713" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-20" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(460.592 88.792)">
+                      <rect id="Rectangle_Copy_35-20" data-name="Rectangle Copy 35" width="23.321" height="253.151" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-21" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(343.986 190.808)">
+                      <rect id="Rectangle_Copy_35-21" data-name="Rectangle Copy 35" width="23.321" height="151.135" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-22" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(230.296)">
+                      <rect id="Rectangle_Copy_35-22" data-name="Rectangle Copy 35" width="23.321" height="341.943" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-23" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(119.521 117.13)">
+                      <rect id="Rectangle_Copy_35-23" data-name="Rectangle Copy 35" width="23.321" height="224.813" rx="6" fill="#147ad6"/>
+                    </g>
+                    <g id="Charts_Columns_Bars_Single-column-size02-24" data-name="Charts/Columns&amp;Bars/Single-column-size02" transform="translate(0 170.027)">
+                      <rect id="Rectangle_Copy_35-24" data-name="Rectangle Copy 35" width="23.321" height="171.916" rx="11.661" fill="#147ad6"/>
+                    </g>
+                  </g>
+                </g>
+              </g>
+              <text id="Spend_By_Year" data-name="Spend By Year" transform="translate(38 59)" fill="#343a40" font-size="26" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Spend By Year</tspan></text>
+            </g>
+            <g id="Component_53_42" data-name="Component 53 – 42" transform="translate(1983.648 262.597)">
+              <g transform="matrix(1, 0, 0, 1, -2200.79, -548.65)" filter="url(#Rectangle_17681-6)">
+                <rect id="Rectangle_17681-17" data-name="Rectangle 17681" width="670" height="1105" rx="4" transform="translate(2201 548.8)" fill="#fff"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -2200.79, -548.65)" filter="url(#Rectangle_18467)">
+                <path id="Rectangle_18467-3" data-name="Rectangle 18467" d="M4,0H666a4,4,0,0,1,4,4V94a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2201 548.8)" fill="#ef485d"/>
+              </g>
+              <g id="Group_9881" data-name="Group 9881" transform="translate(0.945 26.449)">
+                <g id="Group_9920" data-name="Group 9920" transform="translate(0 105.795)">
+                  <g id="Group_9869" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868" data-name="Group 9868">
+                      <text id="Jobs_Pending_Review" data-name="Jobs Pending Review" transform="translate(0.423 24.902)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Jobs Pending Review</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_30" data-name="30" transform="translate(601.262 30.014)" fill="#3a4550" font-size="31" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">30</tspan></text>
+                    <line id="Line_364" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_9921" data-name="Group 9921" transform="translate(0 217.257)">
+                  <g id="Group_9869-2" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-2" data-name="Group 9868">
+                      <text id="Jobs_Pending_Release" data-name="Jobs Pending Release" transform="translate(0.423 25.441)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Jobs Pending Release</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-2" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_20" data-name="20" transform="translate(601.262 28.551)" fill="#3a4550" font-size="30" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">20</tspan></text>
+                    <line id="Line_364-2" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_9922" data-name="Group 9922" transform="translate(0 328.719)">
+                  <g id="Group_9869-3" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-3" data-name="Group 9868">
+                      <text id="Resumes_To_Review" data-name="Resumes To Review" transform="translate(0.423 24.979)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Resumes To Review</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-3" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_15" data-name="15" transform="translate(601.262 28.09)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">15</tspan></text>
+                    <line id="Line_364-3" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10404" data-name="Group 10404" transform="translate(0 440.181)">
+                  <g id="Group_9869-4" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-4" data-name="Group 9868">
+                      <text id="Offers_Pending_PMO_Release" data-name="Offers Pending PMO Release" transform="translate(0.423 24.516)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Offers Pending PMO Release</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-4" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_15-2" data-name="15" transform="translate(601.262 27.627)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">15</tspan></text>
+                    <line id="Line_364-4" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10405" data-name="Group 10405" transform="translate(0 551.643)">
+                  <g id="Group_9869-5" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-5" data-name="Group 9868">
+                      <text id="Offers_Pending_Workorders_Creation" data-name="Offers Pending Workorders Creation" transform="translate(0.423 25.055)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Offers Pending Workorders Creation</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-5" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_15-3" data-name="15" transform="translate(601.262 28.166)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">15</tspan></text>
+                    <line id="Line_364-5" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10406" data-name="Group 10406" transform="translate(0 663.105)">
+                  <g id="Group_9869-6" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-6" data-name="Group 9868">
+                      <text id="Rejected_Offers" data-name="Rejected Offers" transform="translate(0.423 24.592)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Rejected Offers</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-6" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_15-4" data-name="15" transform="translate(601.262 27.703)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">15</tspan></text>
+                    <line id="Line_364-6" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10407" data-name="Group 10407" transform="translate(0 774.567)">
+                  <g id="Group_9869-7" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-7" data-name="Group 9868">
+                      <text id="Rejected_Workorders_By_Suppliers" data-name="Rejected Workorders By Suppliers" transform="translate(0.423 25.131)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Rejected Workorders By Suppliers</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-7" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_15-5" data-name="15" transform="translate(601.262 28.242)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">15</tspan></text>
+                    <line id="Line_364-7" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10408" data-name="Group 10408" transform="translate(0 886.029)">
+                  <g id="Group_9869-8" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-8" data-name="Group 9868">
+                      <text id="Validate_Onboarding_Completion" data-name="Validate Onboarding Completion" transform="translate(0.423 24.668)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Validate Onboarding Completion</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-8" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_15-6" data-name="15" transform="translate(601.262 27.779)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">15</tspan></text>
+                    <line id="Line_364-8" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10409" data-name="Group 10409" transform="translate(36.839 997.491)">
+                  <g id="Group_9869-9" data-name="Group 9869" transform="translate(0 0)">
+                    <g id="Group_9868-9" data-name="Group 9868">
+                      <text id="Background_Verification_Review" data-name="Background Verification Review" transform="translate(0.423 25.207)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Background Verification Review</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-9" data-name="Group 9919" transform="translate(564.867 1.889)">
+                    <text id="_15-7" data-name="15" transform="translate(-0.444 28.316)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">15</tspan></text>
+                  </g>
+                </g>
+                <text id="Pending_Actions" data-name="Pending Actions" transform="translate(101.262 30.697)" fill="#fff" font-size="26" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">Pending Actions</tspan></text>
+                <g id="auto_graph-24px_1_" data-name="auto_graph-24px (1)" transform="translate(36.839)">
+                  <rect id="Rectangle_17653" data-name="Rectangle 17653" width="41" height="42" transform="translate(0.423 -0.303)" fill="none"/>
+                  <g id="Group_9917" data-name="Group 9917" transform="translate(2.628 4.427)">
+                    <path id="Path_38828" data-name="Path 38828" d="M23.494,15.448l-1.87-.864a.882.882,0,0,1,0-1.6l1.87-.864.864-1.852a.882.882,0,0,1,1.6,0l.864,1.87L28.679,13a.882.882,0,0,1,0,1.6l-1.87.864-.864,1.852a.882.882,0,0,1-1.6,0Zm-16.949,5.4.864-1.87,1.87-.864a.882.882,0,0,0,0-1.6l-1.87-.864-.864-1.852a.868.868,0,0,0-1.587,0l-.864,1.87-1.87.864a.882.882,0,0,0,0,1.6l1.87.864.864,1.852A.868.868,0,0,0,6.545,20.845ZM14.5,12.009,15.61,9.54l2.469-1.111a.882.882,0,0,0,0-1.6L15.61,5.713,14.5,3.243a.882.882,0,0,0-1.6,0L11.783,5.713,9.314,6.824a.882.882,0,0,0,0,1.6L11.783,9.54l1.111,2.469A.882.882,0,0,0,14.5,12.009Zm23.6.494a1.765,1.765,0,0,0-2.557.071L24.27,25.237l-5.8-5.8a1.756,1.756,0,0,0-2.487,0L5.328,30.105a1.871,1.871,0,0,0,2.646,2.646l9.26-9.277,5.732,5.732a1.75,1.75,0,0,0,2.557-.071L38.168,14.9A1.749,1.749,0,0,0,38.1,12.5Z" transform="translate(-1.707 -2.727)" fill="#fff"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_9928" data-name="Group 9928" transform="translate(587.538 22.67)">
+                <rect id="Rectangle_17658" data-name="Rectangle 17658" width="55" height="54" rx="8" transform="translate(-0.331 0.477)" fill="#ce3347"/>
+                <g id="notifications_active-24px_1_" data-name="notifications_active-24px (1)" transform="translate(10.878 10.878)">
+                  <path id="Path_38832" data-name="Path 38832" d="M0,0H34.657V34.657H0Z" fill="none"/>
+                  <path id="Path_38833" data-name="Path 38833" d="M25.1,22.043V14.805c0-4.444-2.374-8.165-6.513-9.149V4.671A2.181,2.181,0,0,0,16.4,2.5a2.156,2.156,0,0,0-2.157,2.171v.984c-4.154.984-6.513,4.69-6.513,9.149v7.238L5.85,23.911a1.448,1.448,0,0,0,1.013,2.476H25.926a1.452,1.452,0,0,0,1.028-2.476Zm-8.7,8.686a2.9,2.9,0,0,0,2.895-2.9h-5.79A2.894,2.894,0,0,0,16.4,30.729Zm-7.556-25a1.426,1.426,0,0,0,.043-2.07,1.446,1.446,0,0,0-2.012-.029A15.091,15.091,0,0,0,2.145,12.4a1.463,1.463,0,0,0,1.447,1.679,1.443,1.443,0,0,0,1.418-1.2A12.219,12.219,0,0,1,8.847,5.728Zm17.123-2.1a1.464,1.464,0,0,0-2.026.029,1.422,1.422,0,0,0,.043,2.056,12.3,12.3,0,0,1,3.836,7.151,1.421,1.421,0,0,0,1.418,1.2,1.453,1.453,0,0,0,1.433-1.679A15.183,15.183,0,0,0,25.97,3.629Z" transform="translate(0.912 1.071)" fill="#ebebeb"/>
+                </g>
+              </g>
+            </g>
+            <g id="Component_53_43" data-name="Component 53 – 43" transform="translate(1983.648 1405.556)">
+              <g transform="matrix(1, 0, 0, 1, -2200.79, -1691.61)" filter="url(#Rectangle_17681-7)">
+                <rect id="Rectangle_17681-18" data-name="Rectangle 17681" width="670" height="880" rx="4" transform="translate(2201 1691.8)" fill="#fff"/>
+              </g>
+              <g transform="matrix(1, 0, 0, 1, -2200.79, -1691.61)" filter="url(#Rectangle_18467-2)">
+                <path id="Rectangle_18467-4" data-name="Rectangle 18467" d="M4,0H666a4,4,0,0,1,4,4V94a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V4A4,4,0,0,1,4,0Z" transform="translate(2201 1691.8)" fill="#5e71fe"/>
+              </g>
+              <g id="Group_9881-2" data-name="Group 9881" transform="translate(0.945 30.227)">
+                <g id="Group_9877" data-name="Group 9877" transform="translate(33.061)">
+                  <text id="_SOW_Pending_Actions" data-name=" SOW Pending Actions" transform="translate(70.201 26.961)" fill="#fff" font-size="26" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0" xml:space="preserve"> SOW Pending Actions</tspan></text>
+                  <g id="dns-24px" transform="translate(0 0)">
+                    <path id="Path_39867" data-name="Path 39867" d="M0,0H37.784V37.784H0Z" fill="none"/>
+                    <path id="Path_39868" data-name="Path 39868" d="M27.979,17.694H4.469A1.474,1.474,0,0,0,3,19.163v8.816a1.474,1.474,0,0,0,1.469,1.469h23.51a1.474,1.474,0,0,0,1.469-1.469V19.163A1.474,1.474,0,0,0,27.979,17.694ZM8.877,26.51a2.939,2.939,0,1,1,2.939-2.939A2.947,2.947,0,0,1,8.877,26.51ZM27.979,3H4.469A1.474,1.474,0,0,0,3,4.469v8.816a1.474,1.474,0,0,0,1.469,1.469h23.51a1.474,1.474,0,0,0,1.469-1.469V4.469A1.474,1.474,0,0,0,27.979,3Zm-19.1,8.816a2.939,2.939,0,1,1,2.939-2.939A2.947,2.947,0,0,1,8.877,11.816Z" transform="translate(2.668 2.668)" fill="#fff"/>
+                  </g>
+                </g>
+                <g id="Group_9920-2" data-name="Group 9920" transform="translate(0 102.016)">
+                  <g id="Group_9869-10" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-10" data-name="Group 9868">
+                      <text id="SOW_Pending_Approvals" data-name="SOW Pending Approvals" transform="translate(0.423 24.943)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">SOW Pending Approvals</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-10" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_12" data-name="12" transform="translate(601.262 28.055)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+                    <line id="Line_364-9" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_9921-2" data-name="Group 9921" transform="translate(0 213.478)">
+                  <g id="Group_9869-11" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-11" data-name="Group 9868">
+                      <text id="New_SOW_Proposals" data-name="New SOW Proposals" transform="translate(0.423 25.482)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">New SOW Proposals</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-11" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_14" data-name="14" transform="translate(600.262 28.594)" fill="#3a4550" font-size="30" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">14</tspan></text>
+                    <line id="Line_364-10" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_9922-2" data-name="Group 9922" transform="translate(0 324.94)">
+                  <g id="Group_9869-12" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-12" data-name="Group 9868">
+                      <text id="SOW_Pending_Award" data-name="SOW Pending Award" transform="translate(0.423 25.02)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">SOW Pending Award</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-12" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_20-2" data-name="20" transform="translate(596.262 29.131)" fill="#3a4550" font-size="30" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">20</tspan></text>
+                    <line id="Line_364-11" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10398" data-name="Group 10398" transform="translate(0 436.402)">
+                  <g id="Group_9869-13" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-13" data-name="Group 9868">
+                      <text id="SOW_Pending_Award-2" data-name="SOW Pending Award" transform="translate(0.423 24.559)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">SOW Pending Award</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-13" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_12-2" data-name="12" transform="translate(596.262 27.668)" fill="#3a4550" font-size="29" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">12</tspan></text>
+                    <line id="Line_364-12" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10399" data-name="Group 10399" transform="translate(0 547.865)">
+                  <g id="Group_9869-14" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-14" data-name="Group 9868">
+                      <text id="Terms_Conditions_Pending" data-name="Terms &amp; Conditions Pending" transform="translate(0.423 25.096)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Terms &amp; Conditions Pending</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-14" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_34" data-name="34" transform="translate(596.262 30.207)" fill="#3a4550" font-size="31" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">34</tspan></text>
+                    <line id="Line_364-13" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10400" data-name="Group 10400" transform="translate(0 659.327)">
+                  <g id="Group_9869-15" data-name="Group 9869" transform="translate(36.839 0)">
+                    <g id="Group_9868-15" data-name="Group 9868">
+                      <text id="Milestone_Update_Pending_Approval" data-name="Milestone Update Pending Approval" transform="translate(0.423 24.633)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Milestone Update Pending Approval</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-15" data-name="Group 9919" transform="translate(0 1.889)">
+                    <text id="_23" data-name="23" transform="translate(596.262 28.744)" fill="#3a4550" font-size="30" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">23</tspan></text>
+                    <line id="Line_364-14" data-name="Line 364" x2="682.879" transform="translate(0 72.734)" fill="none" stroke="#fcf8ff" stroke-width="1"/>
+                  </g>
+                </g>
+                <g id="Group_10401" data-name="Group 10401" transform="translate(36.839 770.789)">
+                  <g id="Group_9869-16" data-name="Group 9869" transform="translate(0 0)">
+                    <g id="Group_9868-16" data-name="Group 9868">
+                      <text id="Milestone_Invoice_Pending_Approval" data-name="Milestone Invoice Pending Approval" transform="translate(0.423 25.172)" fill="#3a4550" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Milestone Invoice Pending Approval</tspan></text>
+                    </g>
+                  </g>
+                  <g id="Group_9919-16" data-name="Group 9919" transform="translate(559.2 1.889)">
+                    <text id="_20-3" data-name="20" transform="translate(0.223 29.283)" fill="#3a4550" font-size="30" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">20</tspan></text>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_9928-2" data-name="Group 9928" transform="translate(587.538 22.67)">
+                <rect id="Rectangle_17658-2" data-name="Rectangle 17658" width="55" height="55" rx="8" transform="translate(-0.331 -0.482)" fill="#4657d6"/>
+                <g id="notifications_active-24px_1_2" data-name="notifications_active-24px (1)" transform="translate(10.878 10.878)">
+                  <path id="Path_38832-2" data-name="Path 38832" d="M0,0H34.657V34.657H0Z" fill="none"/>
+                  <path id="Path_38833-2" data-name="Path 38833" d="M25.1,22.043V14.805c0-4.444-2.374-8.165-6.513-9.149V4.671A2.181,2.181,0,0,0,16.4,2.5a2.156,2.156,0,0,0-2.157,2.171v.984c-4.154.984-6.513,4.69-6.513,9.149v7.238L5.85,23.911a1.448,1.448,0,0,0,1.013,2.476H25.926a1.452,1.452,0,0,0,1.028-2.476Zm-8.7,8.686a2.9,2.9,0,0,0,2.895-2.9h-5.79A2.894,2.894,0,0,0,16.4,30.729Zm-7.556-25a1.426,1.426,0,0,0,.043-2.07,1.446,1.446,0,0,0-2.012-.029A15.091,15.091,0,0,0,2.145,12.4a1.463,1.463,0,0,0,1.447,1.679,1.443,1.443,0,0,0,1.418-1.2A12.219,12.219,0,0,1,8.847,5.728Zm17.123-2.1a1.464,1.464,0,0,0-2.026.029,1.422,1.422,0,0,0,.043,2.056,12.3,12.3,0,0,1,3.836,7.151,1.421,1.421,0,0,0,1.418,1.2,1.453,1.453,0,0,0,1.433-1.679A15.183,15.183,0,0,0,25.97,3.629Z" transform="translate(0.912 1.071)" fill="#ebebeb"/>
+                </g>
+              </g>
+            </g>
+            <g id="Component_53_44" data-name="Component 53 – 44" transform="translate(645.854 262.744)">
+              <g transform="matrix(1, 0, 0, 1, -863, -548.8)" filter="url(#Rectangle_17681-8)">
+                <g id="Rectangle_17681-19" data-name="Rectangle 17681" transform="translate(863 548.8)" fill="#fff" stroke="#cfd8e1" stroke-width="1">
+                  <rect width="416" height="172" rx="4" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="415" height="171" rx="3.5" fill="none"/>
+                </g>
+              </g>
+              <text id="Head_Count" data-name="Head Count" transform="translate(35.802 139.296)" fill="#343a40" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Head Count</tspan></text>
+              <text id="_35-2" data-name="35" transform="translate(35.895 72.728)" fill="#343a40" font-size="35" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">35</tspan></text>
+              <g id="Group_9912" data-name="Group 9912" transform="translate(323.704 25.17)">
+                <g id="Group_9902" data-name="Group 9902" transform="translate(0 0)" opacity="0.131">
+                  <circle id="Ellipse_356" data-name="Ellipse 356" cx="30.866" cy="30.866" r="30.866" fill="#4b57ef"/>
+                </g>
+                <g id="people_outline-24px" transform="translate(10.682 10.724)">
+                  <path id="Path_39886" data-name="Path 39886" d="M0,0H40.953V40.953H0Z" fill="none"/>
+                  <path id="Path_39887" data-name="Path 39887" d="M13.689,16.031a5.693,5.693,0,0,0,5.844-5.515A5.693,5.693,0,0,0,13.689,5a5.693,5.693,0,0,0-5.844,5.515A5.693,5.693,0,0,0,13.689,16.031Zm0-7.879a2.434,2.434,0,0,1,2.5,2.364,2.434,2.434,0,0,1-2.5,2.364,2.434,2.434,0,0,1-2.5-2.364A2.434,2.434,0,0,1,13.689,8.152Zm0,10.637C9.781,18.788,2,20.632,2,24.3v1.182a1.63,1.63,0,0,0,1.67,1.576H23.708a1.63,1.63,0,0,0,1.67-1.576V24.3C25.378,20.632,17.6,18.788,13.689,18.788ZM5.907,23.91a16.833,16.833,0,0,1,7.781-1.97,16.833,16.833,0,0,1,7.781,1.97Zm19.537-5.027A6.54,6.54,0,0,1,28.717,24.3v2.758h5.009a1.63,1.63,0,0,0,1.67-1.576V24.3C35.4,21.121,29.552,19.308,25.444,18.883Zm-1.737-2.852a5.693,5.693,0,0,0,5.844-5.515A5.693,5.693,0,0,0,23.708,5a6.037,6.037,0,0,0-2.5.552,8.213,8.213,0,0,1,0,9.928A6.037,6.037,0,0,0,23.708,16.031Z" transform="translate(1.778 4.446)" fill="#5261ff"/>
+                </g>
+              </g>
+            </g>
+            <g id="Component_53_45" data-name="Component 53 – 45" transform="translate(1091.854 262.744)">
+              <g transform="matrix(1, 0, 0, 1, -1309, -548.8)" filter="url(#Rectangle_17681-9)">
+                <g id="Rectangle_17681-20" data-name="Rectangle 17681" transform="translate(1309 548.8)" fill="#fff" stroke="#cfd8e1" stroke-width="1">
+                  <rect width="416" height="172" rx="4" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="415" height="171" rx="3.5" fill="none"/>
+                </g>
+              </g>
+              <g id="Group_9912-2" data-name="Group 9912" transform="translate(323.704 24.226)">
+                <g id="Group_9902-2" data-name="Group 9902" transform="translate(0 0)" opacity="0.131">
+                  <circle id="Ellipse_356-2" data-name="Ellipse 356" cx="30.866" cy="30.866" r="30.866" fill="#ef904b"/>
+                </g>
+                <g id="person_pin-24px" transform="translate(13.044 14.031)">
+                  <path id="Path_39888" data-name="Path 39888" d="M0,0H36.839V36.839H0Z" fill="none"/>
+                  <path id="Path_39889" data-name="Path 39889" d="M25.67,2H5.834A2.894,2.894,0,0,0,3,4.952V25.618a2.9,2.9,0,0,0,2.834,2.952H11.5l3.245,3.38a1.371,1.371,0,0,0,2,0L20,28.571H25.67A2.9,2.9,0,0,0,28.5,25.618V4.952A2.9,2.9,0,0,0,25.67,2ZM15.752,6.871a3.91,3.91,0,0,1,3.826,3.986,3.91,3.91,0,0,1-3.826,3.986,3.91,3.91,0,0,1-3.826-3.986A3.91,3.91,0,0,1,15.752,6.871Zm8.5,15.795h-17V21.338c0-2.952,5.668-4.576,8.5-4.576s8.5,1.624,8.5,4.576Z" transform="translate(2.668 1.778)" fill="#de8d1e"/>
+                </g>
+              </g>
+              <text id="Current_Openings" data-name="Current Openings" transform="translate(35.802 139.296)" fill="#343a40" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Current Openings</tspan></text>
+              <text id="_0-2" data-name="0" transform="translate(35.895 73.618)" fill="#343a40" font-size="34" font-family="Inter-Medium, Inter" font-weight="500"><tspan x="0" y="0">0</tspan></text>
+            </g>
+            <g id="Component_53_46" data-name="Component 53 – 46" transform="translate(1537.854 262.744)">
+              <g transform="matrix(1, 0, 0, 1, -1755, -548.8)" filter="url(#Rectangle_17681-10)">
+                <g id="Rectangle_17681-21" data-name="Rectangle 17681" transform="translate(1755 548.8)" fill="#fff" stroke="#cfd8e1" stroke-width="1">
+                  <rect width="416" height="172" rx="4" stroke="none"/>
+                  <rect x="0.5" y="0.5" width="415" height="171" rx="3.5" fill="none"/>
+                </g>
+              </g>
+              <g id="Group_10158" data-name="Group 10158" transform="translate(103.905 34.941)">
+                <text id="Contact_Support" data-name="Contact Support" transform="translate(0.095 107.058)" fill="#343a40" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Contact Support</tspan></text>
+                <g id="Group_9927" data-name="Group 9927" transform="translate(73.073)" opacity="0.205">
+                  <circle id="Ellipse_356-3" data-name="Ellipse 356" cx="30.716" cy="30.716" r="30.716" fill="#a98beb"/>
+                </g>
+                <g id="contact_support-24px_2_" data-name="contact_support-24px (2)" transform="translate(83.808 11.084)">
+                  <path id="Path_39890" data-name="Path 39890" d="M0,0H40.194V40.194H0Z" fill="none"/>
+                  <path id="Path_39891" data-name="Path 39891" d="M16.485,2A13.691,13.691,0,0,0,3,15.871,13.691,13.691,0,0,0,16.485,29.742h.793v4.9c7.71-3.819,12.692-11.423,12.692-18.767A13.691,13.691,0,0,0,16.485,2Zm1.586,23.662H14.9V22.4h3.173Zm.635-7.8a.359.359,0,0,0-.048.082c-.079.131-.159.261-.222.392a.6.6,0,0,0-.063.18,2.994,2.994,0,0,0-.127.343,3.533,3.533,0,0,0-.159,1.11H14.9a6.836,6.836,0,0,1,.317-2.121.061.061,0,0,1,.016-.049c.016-.065.063-.1.079-.163a3.733,3.733,0,0,1,.349-.718c.048-.082.111-.163.159-.245a2.043,2.043,0,0,1,.127-.2l.016.016c1.333-1.8,3.506-2.35,3.681-4.373a3.3,3.3,0,0,0-2.491-3.476A3.155,3.155,0,0,0,13.5,10.731a1.546,1.546,0,0,1-1.4,1.061h-.317a1.487,1.487,0,0,1-1.38-1.909,6.345,6.345,0,0,1,7.028-4.553,6.532,6.532,0,0,1,5.283,5.434c.7,3.982-2.586,4.945-4.014,7.1Z" transform="translate(2.668 1.778)" fill="#9870f0"/>
+                </g>
+              </g>
+            </g>
+            <g id="Component_53_47" data-name="Component 53 – 47" transform="translate(199.854 262.744)">
+              <g transform="matrix(1, 0, 0, 1, -417, -548.8)" filter="url(#Rectangle_17681-11)">
+                <rect id="Rectangle_17681-22" data-name="Rectangle 17681" width="416" height="172" rx="4" transform="translate(417 548.8)" fill="#5e71fe"/>
+              </g>
+              <text id="Create_New_Job" data-name="Create New Job" transform="translate(107.684 139.296)" fill="#fff" font-size="26" font-family="Inter-Regular, Inter"><tspan x="0" y="0">Create New Job</tspan></text>
+              <g id="Group_10157" data-name="Group 10157" transform="translate(172.008 26.449)">
+                <circle id="Ellipse_361" data-name="Ellipse 361" cx="34.95" cy="34.95" r="34.95" fill="#fff" opacity="0.087"/>
+                <g id="add-24px_2_" data-name="add-24px (2)" transform="translate(12.296 14.186)">
+                  <path id="Path_38830" data-name="Path 38830" d="M0,0H43.418V43.418H0Z" fill="none"/>
+                  <path id="Path_38831" data-name="Path 38831" d="M29.526,19.015H19.015V29.526h-3.5V19.015H5v-3.5H15.511V5h3.5V15.511H29.526Z" transform="translate(4.446 4.446)" fill="#fff"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+        <circle id="Ellipse_485" data-name="Ellipse 485" cx="16" cy="16" r="16" transform="translate(219 147)" fill="#ff4f50"/>
+        <circle id="Ellipse_486" data-name="Ellipse 486" cx="16" cy="16" r="16" transform="translate(266 147)" fill="#ffb73d"/>
+        <circle id="Ellipse_487" data-name="Ellipse 487" cx="16" cy="16" r="16" transform="translate(314 147)" fill="#00c645"/>
+      </g>
+    </g>
+  </g>
+</svg>
