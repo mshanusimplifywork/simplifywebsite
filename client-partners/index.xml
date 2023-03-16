@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Client Partners on Simplify VMS</title>
+    <link>https://mshanusimplifywork.github.io/simplifywebsite/client-partners/</link>
+    <description>Recent content in Client Partners on Simplify VMS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2022 10:07:21 +0600</lastBuildDate><atom:link href="https://mshanusimplifywork.github.io/simplifywebsite/client-partners/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/client-partners/post-1/</link>
+      <pubDate>Thu, 18 Aug 2022 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/client-partners/post-1/</guid>
+      <description>Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>screens with built in Present and Dismiss animations.</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/client-partners/post-3/</link>
+      <pubDate>Thu, 18 Jun 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/client-partners/post-3/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/client-partners/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/client-partners/post-5/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+  </channel>
+</rss>

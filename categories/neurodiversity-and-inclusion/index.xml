@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neurodiversity And Inclusion on Simplify VMS</title>
+    <title>Neurodiversity and Inclusion on Simplify VMS</title>
     <link>https://mshanusimplifywork.github.io/simplifywebsite/categories/neurodiversity-and-inclusion/</link>
-    <description>Recent content in Neurodiversity And Inclusion on Simplify VMS</description>
+    <description>Recent content in Neurodiversity and Inclusion on Simplify VMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mshanusimplifywork.github.io/simplifywebsite/categories/neurodiversity-and-inclusion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Aug 2022 10:07:21 +0600</lastBuildDate><atom:link href="https://mshanusimplifywork.github.io/simplifywebsite/categories/neurodiversity-and-inclusion/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Beneifts to the workplace from neurodiversity</title>
-      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/benefits-of-neurodiversity/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/post-1/</link>
+      <pubDate>Thu, 18 Aug 2022 10:07:21 +0600</pubDate>
       
-      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/benefits-of-neurodiversity/</guid>
-      <description>Research says there are large benefits</description>
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/post-1/</guid>
+      <description>Here is example of hedings. You can use this heading by following markdownify rules.</description>
     </item>
     
     <item>
-      <title>Neurodiversity And Inclusion</title>
-      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/neurodiversity-and-inclusion/</link>
-      <pubDate>Sat, 18 Jul 2020 10:07:21 +0600</pubDate>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/post-4/</link>
+      <pubDate>Mon, 18 May 2020 10:07:21 +0600</pubDate>
       
-      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/neurodiversity-and-inclusion/</guid>
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/post-4/</guid>
+      <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://mshanusimplifywork.github.io/simplifywebsite/blogs/neuro-diversity/post-5/</guid>
       <description>Laoreet mauris odio ut nec. Nisl, sed adipiscing dignissim arcu placerat ornare pharetra nec in.</description>
     </item>
     
